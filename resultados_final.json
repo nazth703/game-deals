@@ -1,0 +1,4802 @@
+[
+  {
+    "id": 1,
+    "title": "Super Mario Bros Wonder",
+    "platform": "Switch",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/1fd/1fd3f030bee73452d46a0678084a7ed9.jpg",
+    "fecha_lanzamiento": "2023-10-20",
+    "rating": 4.35,
+    "hltb": {
+      "main_story": 10.03,
+      "main_extra": 13.67,
+      "completionist": 20.18
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Super%20Mario%20Bros%20Wonder"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Legend of Zelda Breath of the Wild",
+    "platform": "Switch",
+    "metacritic_score": 97,
+    "imagen": "https://media.rawg.io/media/games/cc1/cc196a5ad763955d6532cdba236f730c.jpg",
+    "fecha_lanzamiento": "2017-03-03",
+    "rating": 4.47,
+    "hltb": {
+      "main_story": 50.34,
+      "main_extra": 98.41,
+      "completionist": 193.6
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Mario Kart 8 Deluxe",
+    "platform": "Switch",
+    "metacritic_score": 92,
+    "imagen": "https://media.rawg.io/media/games/6f8/6f846e941c78cfbabe53cd67e55ced83.jpg",
+    "fecha_lanzamiento": "2017-04-27",
+    "rating": 4.45,
+    "hltb": {
+      "main_story": 6.23,
+      "main_extra": 22.7,
+      "completionist": 53.77
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Mario%20Kart%208%20Deluxe"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "God of War",
+    "platform": "PS4",
+    "metacritic_score": 94,
+    "imagen": "https://media.rawg.io/media/games/1aa/1aa4ca34a8a6bb57a2e065c8332dc230.jpg",
+    "fecha_lanzamiento": "2005-03-22",
+    "rating": 4.36,
+    "hltb": {
+      "main_story": 20.55,
+      "main_extra": 32.91,
+      "completionist": 51.11
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$49.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1593500"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "God of War Ragnarok",
+    "platform": "PS5",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/screenshots/3c4/3c4c51b66741363d83b56ce66b1240ec.jpg",
+    "fecha_lanzamiento": null,
+    "rating": 4.58,
+    "hltb": {
+      "main_story": 26.54,
+      "main_extra": 40.64,
+      "completionist": 55.54
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2322010"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "The Last of Us Part I",
+    "platform": "PS5",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/71d/71df9e759b2246f9769126c98ac997fc.jpg",
+    "fecha_lanzamiento": "2022-09-02",
+    "rating": 4.68,
+    "hltb": {
+      "main_story": 14.32,
+      "main_extra": 17.93,
+      "completionist": 24.48
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1888930"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "The Last of Us Part II",
+    "platform": "PS4",
+    "metacritic_score": 93,
+    "imagen": "https://media.rawg.io/media/games/909/909974d1c7863c2027241e265fe7011f.jpg",
+    "fecha_lanzamiento": "2020-06-19",
+    "rating": 4.42,
+    "hltb": {
+      "main_story": 24.11,
+      "main_extra": 29.5,
+      "completionist": 43.39
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$49.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2531310"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Spider-Man Miles Morales",
+    "platform": "PS5",
+    "metacritic_score": 86,
+    "imagen": "https://media.rawg.io/media/games/048/048b46cdc66cbc7e235e1f359c2a77ec.jpg",
+    "fecha_lanzamiento": "2020-11-12",
+    "rating": 4.25,
+    "hltb": {
+      "main_story": 7.77,
+      "main_extra": 12.52,
+      "completionist": 18.53
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$49.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1817190"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Horizon Zero Dawn",
+    "platform": "PS4",
+    "metacritic_score": 89,
+    "imagen": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
+    "fecha_lanzamiento": "2017-02-28",
+    "rating": 4.27,
+    "hltb": {
+      "main_story": 22.5,
+      "main_extra": 44.05,
+      "completionist": 61.11
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$49.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2561580"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Horizon Forbidden West",
+    "platform": "PS5",
+    "metacritic_score": 86,
+    "imagen": "https://media.rawg.io/media/games/bf7/bf73b105ccbba42107986bbcd96fcada.jpg",
+    "fecha_lanzamiento": "2022-02-18",
+    "rating": 4.2,
+    "hltb": {
+      "main_story": 28.89,
+      "main_extra": 62.68,
+      "completionist": 89.73
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2420110"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Red Dead Redemption 2",
+    "platform": "PS4",
+    "metacritic_score": 96,
+    "imagen": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
+    "fecha_lanzamiento": "2018-10-26",
+    "rating": 4.59,
+    "hltb": {
+      "main_story": 50.71,
+      "main_extra": 84.61,
+      "completionist": 193.56
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$14.99",
+        "precio_original": "$59.99",
+        "descuento": 75,
+        "en_oferta": true,
+        "url": "https://store.steampowered.com/app/1174180"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Grand Theft Auto V",
+    "platform": "PS4",
+    "metacritic_score": "N/A",
+    "imagen": "N/A",
+    "fecha_lanzamiento": "N/A",
+    "rating": "N/A",
+    "hltb": {
+      "main_story": 32.04,
+      "main_extra": 51.48,
+      "completionist": 88.62
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/3240220"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "The Witcher 3 Wild Hunt",
+    "platform": "PC",
+    "metacritic_score": 92,
+    "imagen": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg",
+    "fecha_lanzamiento": "2015-05-18",
+    "rating": 4.64,
+    "hltb": {
+      "main_story": 51.6,
+      "main_extra": 103.72,
+      "completionist": 174.44
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/292030"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Cyberpunk 2077",
+    "platform": "PC",
+    "metacritic_score": "N/A",
+    "imagen": "N/A",
+    "fecha_lanzamiento": "N/A",
+    "rating": "N/A",
+    "hltb": {
+      "main_story": 26.0,
+      "main_extra": 63.13,
+      "completionist": 108.35
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1091500"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Elden Ring",
+    "platform": "PC",
+    "metacritic_score": 95,
+    "imagen": "https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg",
+    "fecha_lanzamiento": "2022-02-25",
+    "rating": 4.39,
+    "hltb": {
+      "main_story": 60.02,
+      "main_extra": 101.18,
+      "completionist": 135.67
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1245620"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Dark Souls III",
+    "platform": "PC",
+    "metacritic_score": 89,
+    "imagen": "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg",
+    "fecha_lanzamiento": "2016-04-11",
+    "rating": 4.4,
+    "hltb": {
+      "main_story": 31.24,
+      "main_extra": 48.45,
+      "completionist": 100.47
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/374320"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Minecraft",
+    "platform": "PC",
+    "metacritic_score": 83,
+    "imagen": "https://media.rawg.io/media/games/b4e/b4e4c73d5aa4ec66bbf75375c4847a2b.jpg",
+    "fecha_lanzamiento": "2009-05-10",
+    "rating": 4.44,
+    "hltb": {
+      "main_story": 65.7,
+      "main_extra": 139.73,
+      "completionist": 286.68
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1672970"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Half Life 2",
+    "platform": "PC",
+    "metacritic_score": 96,
+    "imagen": "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg",
+    "fecha_lanzamiento": "2004-11-16",
+    "rating": 4.48,
+    "hltb": {
+      "main_story": 12.89,
+      "main_extra": 15.61,
+      "completionist": 19.88
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$9.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/220"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Portal 2",
+    "platform": "PC",
+    "metacritic_score": 95,
+    "imagen": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg",
+    "fecha_lanzamiento": "2011-04-18",
+    "rating": 4.58,
+    "hltb": {
+      "main_story": 8.53,
+      "main_extra": 13.73,
+      "completionist": 22.53
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$9.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/620"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Counter Strike 2",
+    "platform": "PC",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/ec4/ec4b02bdb3eb5c6212992c19bc05697e.jpg",
+    "fecha_lanzamiento": "2023-09-27",
+    "rating": 3.58,
+    "hltb": {
+      "main_story": 147.71,
+      "main_extra": 373.06,
+      "completionist": 752.47
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "Free to Play",
+        "precio_original": "Free to Play",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/search/?term=Counter+Strike+2"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Halo Infinite",
+    "platform": "Xbox",
+    "metacritic_score": 84,
+    "imagen": "https://media.rawg.io/media/games/e1f/e1ffbeb1bac25b19749ad285ca29e158.jpg",
+    "fecha_lanzamiento": "2021-12-08",
+    "rating": 3.64,
+    "hltb": {
+      "main_story": 11.32,
+      "main_extra": 19.47,
+      "completionist": 29.12
+    },
+    "precios": [
+      {
+        "tienda": "Xbox Store",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.xbox.com/games/halo-infinite"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Halo Combat Evolved",
+    "platform": "Xbox",
+    "metacritic_score": "N/A",
+    "imagen": "N/A",
+    "fecha_lanzamiento": "N/A",
+    "rating": "N/A",
+    "hltb": {
+      "main_story": 9.96,
+      "main_extra": 11.61,
+      "completionist": 15.14
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$9.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1064221"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Forza Horizon 5",
+    "platform": "Xbox",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/082/082365507ff04d456c700157072d35db.jpg",
+    "fecha_lanzamiento": "2021-11-08",
+    "rating": 4.29,
+    "hltb": {
+      "main_story": 21.13,
+      "main_extra": 46.19,
+      "completionist": 138.31
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1551360"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Gears 5",
+    "platform": "Xbox",
+    "metacritic_score": 83,
+    "imagen": "https://media.rawg.io/media/games/121/1213f8b9b0a26307e672cf51f34882f8.jpg",
+    "fecha_lanzamiento": "2019-09-10",
+    "rating": 3.91,
+    "hltb": {
+      "main_story": 11.26,
+      "main_extra": 15.68,
+      "completionist": 19.3
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1097840"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Final Fantasy VII Remake",
+    "platform": "PS4",
+    "metacritic_score": 87,
+    "imagen": "https://media.rawg.io/media/games/d89/d89bd0cf4fcdc10820892980cbba0f49.jpg",
+    "fecha_lanzamiento": "2020-04-10",
+    "rating": 4.37,
+    "hltb": {
+      "main_story": 32.38,
+      "main_extra": 41.15,
+      "completionist": 85.95
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1462040"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Final Fantasy XVI",
+    "platform": "PS5",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/22e/22e68bb62b3013283972cecf98ed51dc.jpg",
+    "fecha_lanzamiento": "2023-06-22",
+    "rating": 4.11,
+    "hltb": {
+      "main_story": 38.16,
+      "main_extra": 59.06,
+      "completionist": 82.47
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$49.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2515020"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Persona 5 Royal",
+    "platform": "PS4",
+    "metacritic_score": 94,
+    "imagen": "https://media.rawg.io/media/games/a9c/a9c789951de65da545d51f664b4f2ce0.jpg",
+    "fecha_lanzamiento": "2020-03-31",
+    "rating": 4.75,
+    "hltb": {
+      "main_story": 101.27,
+      "main_extra": 122.96,
+      "completionist": 140.49
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1687950"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Persona 4 Golden",
+    "platform": "PC",
+    "metacritic_score": 89,
+    "imagen": "https://media.rawg.io/media/games/b2c/b2c9c6115114c8f7d461b5430e8a7d4a.jpg",
+    "fecha_lanzamiento": "2012-11-20",
+    "rating": 4.44,
+    "hltb": {
+      "main_story": 67.11,
+      "main_extra": 84.14,
+      "completionist": 134.16
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1113000"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Resident Evil 4 Remake",
+    "platform": "PS5",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/51a/51a404b9918a0b19fc704a3ca248c69f.jpg",
+    "fecha_lanzamiento": "2023-03-24",
+    "rating": 4.58,
+    "hltb": {
+      "main_story": 16.16,
+      "main_extra": 21.56,
+      "completionist": 64.8
+    },
+    "precios": [
+      {
+        "tienda": "PlayStation Store",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.playstation.com/search/Resident%20Evil%204%20Remake"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Resident Evil Village",
+    "platform": "PS5",
+    "metacritic_score": 83,
+    "imagen": "https://media.rawg.io/media/games/6cc/6cc23249972a427f697a3d10eb57a820.jpg",
+    "fecha_lanzamiento": "2021-05-07",
+    "rating": 4.39,
+    "hltb": {
+      "main_story": 9.86,
+      "main_extra": 12.91,
+      "completionist": 38.4
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1196590"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Devil May Cry 5",
+    "platform": "PS4",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/9fb/9fbf956a16249def7625ab5dc3d09515.jpg",
+    "fecha_lanzamiento": "2019-03-08",
+    "rating": 4.25,
+    "hltb": {
+      "main_story": 11.14,
+      "main_extra": 16.95,
+      "completionist": 77.47
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$4.49",
+        "precio_original": "$29.99",
+        "descuento": 85,
+        "en_oferta": true,
+        "url": "https://store.steampowered.com/app/601150"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Monster Hunter World",
+    "platform": "PS4",
+    "metacritic_score": 89,
+    "imagen": "https://media.rawg.io/media/games/21c/21cc15d233117c6809ec86870559e105.jpg",
+    "fecha_lanzamiento": "2018-01-26",
+    "rating": 4.01,
+    "hltb": {
+      "main_story": 46.46,
+      "main_extra": 115.41,
+      "completionist": 430.54
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/582010"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Monster Hunter Rise",
+    "platform": "Switch",
+    "metacritic_score": 87,
+    "imagen": "https://media.rawg.io/media/games/dbb/dbba6100aae179b5f24052c9141d426d.jpg",
+    "fecha_lanzamiento": "2021-03-26",
+    "rating": 4.21,
+    "hltb": {
+      "main_story": 23.23,
+      "main_extra": 82.57,
+      "completionist": 181.61
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1446780"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Splatoon 3",
+    "platform": "Switch",
+    "metacritic_score": 83,
+    "imagen": "https://media.rawg.io/media/games/360/360ac0a839ab0f0d9a70b35d38264cb0.jpg",
+    "fecha_lanzamiento": "2022-09-09",
+    "rating": 4.35,
+    "hltb": {
+      "main_story": 8.49,
+      "main_extra": 14.14,
+      "completionist": 18.29
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Splatoon%203"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Animal Crossing New Horizons",
+    "platform": "Switch",
+    "metacritic_score": 90,
+    "imagen": "https://media.rawg.io/media/games/42f/42fe1abd4d7c11ca92d93a0fb0f8662b.jpg",
+    "fecha_lanzamiento": "2020-03-20",
+    "rating": 4.31,
+    "hltb": {
+      "main_story": 60.98,
+      "main_extra": 153.17,
+      "completionist": 417.25
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Animal%20Crossing%20New%20Horizons"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Pokemon Scarlet",
+    "platform": "Switch",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/5ab/5abb8e4af55eb8c867410c3a740355b9.jpg",
+    "fecha_lanzamiento": "2022-11-18",
+    "rating": 3.58,
+    "hltb": {
+      "main_story": 32.12,
+      "main_extra": 51.45,
+      "completionist": 91.3
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Pokemon%20Scarlet"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Pokemon Violet",
+    "platform": "Switch",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/5ab/5abb8e4af55eb8c867410c3a740355b9.jpg",
+    "fecha_lanzamiento": "2022-11-18",
+    "rating": 3.58,
+    "hltb": {
+      "main_story": 26.04,
+      "main_extra": 50.58,
+      "completionist": 117.0
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Pokemon%20Violet"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Kirby Forgotten Land",
+    "platform": "Switch",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/42a/42a71f0cbe23185f778c10462faa12d8.jpg",
+    "fecha_lanzamiento": "2022-03-25",
+    "rating": 4.26,
+    "hltb": {
+      "main_story": 10.33,
+      "main_extra": 15.43,
+      "completionist": 25.95
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Kirby%20Forgotten%20Land"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Metroid Dread",
+    "platform": "Switch",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/c26/c262f8b54b46edc72594c4a9bb8ee13e.jpg",
+    "fecha_lanzamiento": "2021-10-08",
+    "rating": 4.37,
+    "hltb": {
+      "main_story": 9.28,
+      "main_extra": 11.6,
+      "completionist": 13.75
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Metroid%20Dread"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Bayonetta 3",
+    "platform": "Switch",
+    "metacritic_score": 86,
+    "imagen": "https://media.rawg.io/media/games/c30/c30ac50cb13096f5402250bf666a321c.jpg",
+    "fecha_lanzamiento": "2022-10-28",
+    "rating": 4.24,
+    "hltb": {
+      "main_story": 13.06,
+      "main_extra": 18.74,
+      "completionist": 47.54
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Bayonetta%203"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Celeste",
+    "platform": "Switch",
+    "metacritic_score": 91,
+    "imagen": "https://media.rawg.io/media/games/594/59487800889ebac294c7c2c070d02356.jpg",
+    "fecha_lanzamiento": "2018-01-25",
+    "rating": 4.37,
+    "hltb": {
+      "main_story": 8.31,
+      "main_extra": 14.64,
+      "completionist": 39.19
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/504230"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Hollow Knight",
+    "platform": "Switch",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/4cf/4cfc6b7f1850590a4634b08bfab308ab.jpg",
+    "fecha_lanzamiento": "2017-02-23",
+    "rating": 4.4,
+    "hltb": {
+      "main_story": 26.95,
+      "main_extra": 41.6,
+      "completionist": 65.19
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$14.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/367520"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Stardew Valley",
+    "platform": "Switch",
+    "metacritic_score": 89,
+    "imagen": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg",
+    "fecha_lanzamiento": "2016-02-25",
+    "rating": 4.39,
+    "hltb": {
+      "main_story": 53.37,
+      "main_extra": 94.69,
+      "completionist": 172.07
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$14.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/413150"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Undertale",
+    "platform": "PC",
+    "metacritic_score": 92,
+    "imagen": "https://media.rawg.io/media/games/ffe/ffed87105b14f5beff72ff44a7793fd5.jpg",
+    "fecha_lanzamiento": "2015-09-14",
+    "rating": 4.35,
+    "hltb": {
+      "main_story": 7.02,
+      "main_extra": 11.3,
+      "completionist": 20.64
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$9.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/391540"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Disco Elysium",
+    "platform": "PC",
+    "metacritic_score": 91,
+    "imagen": "https://media.rawg.io/media/games/840/8408ad3811289a6a5830cae60fb0b62a.jpg",
+    "fecha_lanzamiento": "2019-10-14",
+    "rating": 4.37,
+    "hltb": {
+      "main_story": 23.7,
+      "main_extra": 33.13,
+      "completionist": 48.24
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$9.99",
+        "precio_original": "$39.99",
+        "descuento": 75,
+        "en_oferta": true,
+        "url": "https://store.steampowered.com/app/632470"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Hades",
+    "platform": "PC",
+    "metacritic_score": 93,
+    "imagen": "https://media.rawg.io/media/games/1f4/1f47a270b8f241e4676b14d39ec620f7.jpg",
+    "fecha_lanzamiento": "2020-09-17",
+    "rating": 4.42,
+    "hltb": {
+      "main_story": 23.36,
+      "main_extra": 48.51,
+      "completionist": 95.19
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1145350"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Dead Cells",
+    "platform": "PC",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/f90/f90ee1a4239247a822771c40488e68c5.jpg",
+    "fecha_lanzamiento": "2018-08-07",
+    "rating": 4.23,
+    "hltb": {
+      "main_story": 14.06,
+      "main_extra": 31.96,
+      "completionist": 91.16
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$24.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/588650"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Cuphead",
+    "platform": "PC",
+    "metacritic_score": 87,
+    "imagen": "https://media.rawg.io/media/games/226/2262cea0b385db6cf399f4be831603b0.jpg",
+    "fecha_lanzamiento": "2017-09-29",
+    "rating": 4.37,
+    "hltb": {
+      "main_story": 10.57,
+      "main_extra": 16.07,
+      "completionist": 28.19
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/268910"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Ori and the Will of the Wisps",
+    "platform": "Xbox",
+    "metacritic_score": 91,
+    "imagen": "https://media.rawg.io/media/games/718/71891d2484a592d871e91dc826707e1c.jpg",
+    "fecha_lanzamiento": "2020-03-10",
+    "rating": 4.41,
+    "hltb": {
+      "main_story": 11.99,
+      "main_extra": 15.67,
+      "completionist": 18.27
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1057090"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Sea of Thieves",
+    "platform": "Xbox",
+    "metacritic_score": 68,
+    "imagen": "https://media.rawg.io/media/games/5f6/5f61441e6338e9221f96a8f4c64c7bb8.jpg",
+    "fecha_lanzamiento": "2018-03-20",
+    "rating": 3.69,
+    "hltb": {
+      "main_story": 44.32,
+      "main_extra": 184.52,
+      "completionist": 724.82
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1172620"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Uncharted 4",
+    "platform": "PS4",
+    "metacritic_score": 93,
+    "imagen": "https://media.rawg.io/media/games/709/709bf81f874ce5d25d625b37b014cb63.jpg",
+    "fecha_lanzamiento": "2016-05-10",
+    "rating": 4.48,
+    "hltb": {
+      "main_story": 15.09,
+      "main_extra": 18.0,
+      "completionist": 31.39
+    },
+    "precios": [
+      {
+        "tienda": "PlayStation Store",
+        "precio_actual": "$19.99",
+        "precio_original": "$19.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.playstation.com/search/Uncharted%204"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Ghost of Tsushima",
+    "platform": "PS4",
+    "metacritic_score": 83,
+    "imagen": "https://media.rawg.io/media/games/f24/f2493ea338fe7bd3c7d73750a85a0959.jpeg",
+    "fecha_lanzamiento": "2020-07-17",
+    "rating": 4.41,
+    "hltb": {
+      "main_story": 25.11,
+      "main_extra": 46.24,
+      "completionist": 62.42
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2215430"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Bloodborne",
+    "platform": "PS4",
+    "metacritic_score": 92,
+    "imagen": "https://media.rawg.io/media/games/214/214b29aeff13a0ae6a70fc4426e85991.jpg",
+    "fecha_lanzamiento": "2015-03-24",
+    "rating": 4.41,
+    "hltb": {
+      "main_story": 32.39,
+      "main_extra": 43.48,
+      "completionist": 75.48
+    },
+    "precios": [
+      {
+        "tienda": "PlayStation Store",
+        "precio_actual": "$19.99",
+        "precio_original": "$19.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.playstation.com/search/Bloodborne"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Death Stranding",
+    "platform": "PS4",
+    "metacritic_score": 84,
+    "imagen": "https://media.rawg.io/media/games/2ad/2ad87a4a69b1104f02435c14c5196095.jpg",
+    "fecha_lanzamiento": "2019-11-08",
+    "rating": 4.31,
+    "hltb": {
+      "main_story": 40.5,
+      "main_extra": 60.07,
+      "completionist": 112.94
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$69.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/3280350"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Detroit Become Human",
+    "platform": "PS4",
+    "metacritic_score": 79,
+    "imagen": "https://media.rawg.io/media/games/951/951572a3dd1e42544bd39a5d5b42d234.jpg",
+    "fecha_lanzamiento": "2018-05-25",
+    "rating": 4.34,
+    "hltb": {
+      "main_story": 12.08,
+      "main_extra": 15.73,
+      "completionist": 32.15
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1222140"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Control",
+    "platform": "PS4",
+    "metacritic_score": 84,
+    "imagen": "https://media.rawg.io/media/games/253/2534a46f3da7fa7c315f1387515ca393.jpg",
+    "fecha_lanzamiento": "2019-08-27",
+    "rating": 4.14,
+    "hltb": {
+      "main_story": 11.71,
+      "main_extra": 19.2,
+      "completionist": 28.88
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$279.00",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1059550"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Sekiro Shadows Die Twice",
+    "platform": "PC",
+    "metacritic_score": 90,
+    "imagen": "https://media.rawg.io/media/games/67f/67f62d1f062a6164f57575e0604ee9f6.jpg",
+    "fecha_lanzamiento": "2019-03-22",
+    "rating": 4.38,
+    "hltb": {
+      "main_story": 30.23,
+      "main_extra": 42.89,
+      "completionist": 69.73
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/814380"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Nioh 2",
+    "platform": "PS4",
+    "metacritic_score": 85,
+    "imagen": "https://media.rawg.io/media/games/a35/a359074cde22a4b23c54db44a592dc41.jpg",
+    "fecha_lanzamiento": "2020-03-13",
+    "rating": 3.95,
+    "hltb": {
+      "main_story": 44.82,
+      "main_extra": 73.02,
+      "completionist": 104.75
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$49.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1325200"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Doom Eternal",
+    "platform": "PC",
+    "metacritic_score": 86,
+    "imagen": "https://media.rawg.io/media/games/3ea/3ea3c9bbd940b6cb7f2139e42d3d443f.jpg",
+    "fecha_lanzamiento": "2020-03-19",
+    "rating": 4.37,
+    "hltb": {
+      "main_story": 14.41,
+      "main_extra": 20.63,
+      "completionist": 29.47
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/782330"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Wolfenstein II",
+    "platform": "PC",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/b4e/b4eca3fc180a934f75665c14453aaa97.jpg",
+    "fecha_lanzamiento": "2019-07-26",
+    "rating": 2.45,
+    "hltb": {
+      "main_story": 10.75,
+      "main_extra": 17.08,
+      "completionist": 33.59
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/612880"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Overwatch 2",
+    "platform": "PC",
+    "metacritic_score": 78,
+    "imagen": "https://media.rawg.io/media/games/95a/95a10817d1fc648cff1153f3fa8ef6c5.jpg",
+    "fecha_lanzamiento": "2022-10-04",
+    "rating": 3.13,
+    "hltb": {
+      "main_story": 42.73,
+      "main_extra": 123.14,
+      "completionist": 867.09
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "Free to Play",
+        "precio_original": "Free to Play",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/search/?term=Overwatch+2"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Apex Legends",
+    "platform": "PC",
+    "metacritic_score": 80,
+    "imagen": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg",
+    "fecha_lanzamiento": "2019-02-04",
+    "rating": 3.63,
+    "hltb": {
+      "main_story": 32.6,
+      "main_extra": 85.11,
+      "completionist": 146.34
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "Free to Play",
+        "precio_original": "Free to Play",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/search/?term=Apex+Legends"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Fortnite",
+    "platform": "PC",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/dcb/dcbb67f371a9a28ea38ffd73ee0f53f3.jpg",
+    "fecha_lanzamiento": "2017-09-26",
+    "rating": 3.29,
+    "hltb": {
+      "main_story": 61.83,
+      "main_extra": 152.19,
+      "completionist": 491.39
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "Free to Play",
+        "precio_original": "Free to Play",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/search/?term=Fortnite"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Valorant",
+    "platform": "PC",
+    "metacritic_score": 80,
+    "imagen": "https://media.rawg.io/media/games/b11/b11127b9ee3c3701bd15b9af3286d20e.jpg",
+    "fecha_lanzamiento": "2020-06-02",
+    "rating": 3.53,
+    "hltb": {
+      "main_story": 106.42,
+      "main_extra": 474.07,
+      "completionist": 560.11
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "Free to Play",
+        "precio_original": "Free to Play",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/search/?term=Valorant"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "title": "League of Legends",
+    "platform": "PC",
+    "metacritic_score": 78,
+    "imagen": "https://media.rawg.io/media/games/78b/78bc81e247fc7e77af700cbd632a9297.jpg",
+    "fecha_lanzamiento": "2009-10-27",
+    "rating": 3.65,
+    "hltb": {
+      "main_story": 1174.31,
+      "main_extra": 1751.0,
+      "completionist": 3306.99
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1276790"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Dota 2",
+    "platform": "PC",
+    "metacritic_score": 90,
+    "imagen": "https://media.rawg.io/media/games/6fc/6fcf4cd3b17c288821388e6085bb0fc9.jpg",
+    "fecha_lanzamiento": "2013-07-09",
+    "rating": 3.07,
+    "hltb": {
+      "main_story": 746.81,
+      "main_extra": 1140.45,
+      "completionist": 2332.72
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "Free to Play",
+        "precio_original": "Free to Play",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/search/?term=Dota+2"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Team Fortress 2",
+    "platform": "PC",
+    "metacritic_score": 92,
+    "imagen": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg",
+    "fecha_lanzamiento": "2007-10-10",
+    "rating": 3.68,
+    "hltb": {
+      "main_story": 287.46,
+      "main_extra": 588.2,
+      "completionist": 2658.3
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "Free to Play",
+        "precio_original": "Free to Play",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/search/?term=Team+Fortress+2"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Left 4 Dead 2",
+    "platform": "PC",
+    "metacritic_score": 89,
+    "imagen": "https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg",
+    "fecha_lanzamiento": "2009-11-17",
+    "rating": 4.1,
+    "hltb": {
+      "main_story": 10.2,
+      "main_extra": 27.74,
+      "completionist": 61.36
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$9.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/550"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Terraria",
+    "platform": "PC",
+    "metacritic_score": 81,
+    "imagen": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
+    "fecha_lanzamiento": "2011-05-16",
+    "rating": 4.07,
+    "hltb": {
+      "main_story": 51.78,
+      "main_extra": 92.1,
+      "completionist": 205.2
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$9.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/105600"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Among Us",
+    "platform": "PC",
+    "metacritic_score": 82,
+    "imagen": "https://media.rawg.io/media/games/e74/e74458058b35e01c1ae3feeb39a3f724.jpg",
+    "fecha_lanzamiento": "2018-07-25",
+    "rating": 3.83,
+    "hltb": {
+      "main_story": 8.66,
+      "main_extra": 16.14,
+      "completionist": 28.54
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$4.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/945360"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Fall Guys",
+    "platform": "PC",
+    "metacritic_score": 80,
+    "imagen": "https://media.rawg.io/media/games/5eb/5eb49eb2fa0738fdb5bacea557b1bc57.jpg",
+    "fecha_lanzamiento": "2020-08-04",
+    "rating": 3.73,
+    "hltb": {
+      "main_story": 9.91,
+      "main_extra": 31.38,
+      "completionist": 97.92
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "Free to Play",
+        "precio_original": "Free to Play",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/search/?term=Fall+Guys"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Rocket League",
+    "platform": "PC",
+    "metacritic_score": 86,
+    "imagen": "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg",
+    "fecha_lanzamiento": "2015-07-07",
+    "rating": 3.93,
+    "hltb": {
+      "main_story": 4.66,
+      "main_extra": 26.55,
+      "completionist": 104.24
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "Free to Play",
+        "precio_original": "Free to Play",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/search/?term=Rocket+League"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "title": "FIFA 23",
+    "platform": "PS5",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/screenshots/52a/52ad785b9d1514f100ec89c6d5f22e8c.jpg",
+    "fecha_lanzamiento": "2022-04-27",
+    "rating": 0.0,
+    "hltb": {
+      "main_story": 96.04,
+      "main_extra": 99.97,
+      "completionist": 189.22
+    },
+    "precios": [
+      {
+        "tienda": "PlayStation Store",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.playstation.com/search/FIFA%2023"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "title": "NBA 2K23",
+    "platform": "PS5",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/5f5/5f5803f27d278c46f524a72956f540e7.jpg",
+    "fecha_lanzamiento": "2022-09-09",
+    "rating": 3.09,
+    "hltb": {
+      "main_story": 22.11,
+      "main_extra": 82.3,
+      "completionist": 259.47
+    },
+    "precios": [
+      {
+        "tienda": "PlayStation Store",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.playstation.com/search/NBA%202K23"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Madden NFL 23",
+    "platform": "PS5",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/615/615b64a3b8553fe92bdc3963f261f7ce.jpg",
+    "fecha_lanzamiento": "2022-08-16",
+    "rating": 0.0,
+    "hltb": {
+      "main_story": 22.68,
+      "main_extra": 131.93,
+      "completionist": 613.48
+    },
+    "precios": [
+      {
+        "tienda": "PlayStation Store",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.playstation.com/search/Madden%20NFL%2023"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "title": "MLB The Show 23",
+    "platform": "PS5",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/3c4/3c4339d2ccfa83496c787a139fe3cdcf.jpg",
+    "fecha_lanzamiento": "2023-03-27",
+    "rating": 0.0,
+    "hltb": {
+      "main_story": 39.0,
+      "main_extra": 360.17,
+      "completionist": 374.6
+    },
+    "precios": [
+      {
+        "tienda": "PlayStation Store",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.playstation.com/search/MLB%20The%20Show%2023"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Gran Turismo 7",
+    "platform": "PS5",
+    "metacritic_score": 84,
+    "imagen": "https://media.rawg.io/media/games/3f6/3f6a04b856f23310d3c2f5be8c5963f7.jpg",
+    "fecha_lanzamiento": "2022-03-04",
+    "rating": 4.18,
+    "hltb": {
+      "main_story": 25.26,
+      "main_extra": 46.26,
+      "completionist": 154.75
+    },
+    "precios": [
+      {
+        "tienda": "PlayStation Store",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.playstation.com/search/Gran%20Turismo%207"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Forza Motorsport",
+    "platform": "Xbox",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/e9e/e9ecc560712ebfa6761e45d2523b0fb9.jpg",
+    "fecha_lanzamiento": "2023-10-10",
+    "rating": 3.46,
+    "hltb": {
+      "main_story": 36.44,
+      "main_extra": 91.74,
+      "completionist": 163.79
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$69.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2440510"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Need for Speed Unbound",
+    "platform": "PS5",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/d7b/d7b45d416ca18bf86f9f1638ee331efa.jpg",
+    "fecha_lanzamiento": "2022-11-29",
+    "rating": 3.43,
+    "hltb": {
+      "main_story": 23.14,
+      "main_extra": 30.71,
+      "completionist": 51.03
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$69.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1846380"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Sonic Frontiers",
+    "platform": "Switch",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/f2b/f2bc84509d92c95a8ad22caa8c8afa06.jpg",
+    "fecha_lanzamiento": "2022-11-08",
+    "rating": 3.47,
+    "hltb": {
+      "main_story": 16.43,
+      "main_extra": 21.88,
+      "completionist": 26.95
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1237320"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Sonic Origins",
+    "platform": "Switch",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/8d0/8d0d4ee64321119d37ef8d140184a639.jpg",
+    "fecha_lanzamiento": "2022-06-23",
+    "rating": 3.67,
+    "hltb": {
+      "main_story": 10.87,
+      "main_extra": 13.91,
+      "completionist": 16.26
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1794960"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Crash Bandicoot 4",
+    "platform": "PS4",
+    "metacritic_score": 84,
+    "imagen": "https://media.rawg.io/media/games/54a/54a14917b3298bbaacdf9873c3af7229.jpg",
+    "fecha_lanzamiento": "2020-10-01",
+    "rating": 3.94,
+    "hltb": {
+      "main_story": 0.0,
+      "main_extra": 20.76,
+      "completionist": 21.0
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1378990"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Spyro Reignited Trilogy",
+    "platform": "PS4",
+    "metacritic_score": 80,
+    "imagen": "https://media.rawg.io/media/games/a50/a505bccdcfdc79970a93574c747f6e0d.jpg",
+    "fecha_lanzamiento": "2018-11-13",
+    "rating": 4.13,
+    "hltb": {
+      "main_story": 17.13,
+      "main_extra": 26.34,
+      "completionist": 33.99
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/996580"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Ratchet and Clank Rift Apart",
+    "platform": "PS5",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/ccf/ccfd3fd488a8ed61145a3da96c080131.jpg",
+    "fecha_lanzamiento": "2021-06-11",
+    "rating": 4.39,
+    "hltb": {
+      "main_story": 11.01,
+      "main_extra": 14.53,
+      "completionist": 18.01
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1895880"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Returnal",
+    "platform": "PS5",
+    "metacritic_score": 86,
+    "imagen": "https://media.rawg.io/media/games/673/673f27be4c5dbf37ce3ed0ed5ddf9d8d.jpg",
+    "fecha_lanzamiento": "2021-04-30",
+    "rating": 4.16,
+    "hltb": {
+      "main_story": 19.06,
+      "main_extra": 30.64,
+      "completionist": 63.93
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1649240"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Demon Souls Remake",
+    "platform": "PS5",
+    "metacritic_score": 92,
+    "imagen": "https://media.rawg.io/media/games/cc4/cc4a56d9e4c2a230293e335000469453.jpg",
+    "fecha_lanzamiento": "2020-11-12",
+    "rating": 4.43,
+    "hltb": {
+      "main_story": 24.01,
+      "main_extra": 32.69,
+      "completionist": 59.74
+    },
+    "precios": [
+      {
+        "tienda": "PlayStation Store",
+        "precio_actual": "$39.99",
+        "precio_original": "$39.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.playstation.com/search/Demon%20Souls%20Remake"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Astros Playroom",
+    "platform": "PS5",
+    "metacritic_score": 83,
+    "imagen": "https://media.rawg.io/media/games/bfe/bfe7780b7d4342540be2e5273d49e54c.jpg",
+    "fecha_lanzamiento": "2020-11-12",
+    "rating": 4.36,
+    "hltb": {
+      "main_story": 2.96,
+      "main_extra": 4.0,
+      "completionist": 5.18
+    },
+    "precios": [
+      {
+        "tienda": "PlayStation Store",
+        "precio_actual": "Free",
+        "precio_original": "Free",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.playstation.com/search/Astros%20Playroom"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Sackboy A Big Adventure",
+    "platform": "PS5",
+    "metacritic_score": 81,
+    "imagen": "https://media.rawg.io/media/games/2ec/2ec8d2b5d990b9407e20dc81d271300d.jpg",
+    "fecha_lanzamiento": "2020-11-12",
+    "rating": 4.09,
+    "hltb": {
+      "main_story": 10.94,
+      "main_extra": 17.13,
+      "completionist": 34.04
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1599660"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Kena Bridge of Spirits",
+    "platform": "PS5",
+    "metacritic_score": 80,
+    "imagen": "https://media.rawg.io/media/games/91d/91ddeef8d5ebee7f21faa89efa0f2201.jpg",
+    "fecha_lanzamiento": "2021-09-21",
+    "rating": 3.97,
+    "hltb": {
+      "main_story": 10.27,
+      "main_extra": 14.43,
+      "completionist": 20.68
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1954200"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Ghostwire Tokyo",
+    "platform": "PS5",
+    "metacritic_score": 78,
+    "imagen": "https://media.rawg.io/media/games/e85/e851f527ab0658519436342ee73da191.jpg",
+    "fecha_lanzamiento": "2022-03-24",
+    "rating": 3.54,
+    "hltb": {
+      "main_story": 11.36,
+      "main_extra": 22.8,
+      "completionist": 42.11
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1475810"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Deathloop",
+    "platform": "PS5",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/018/01857c5ff9579c48fa8bd76b4d83a946.jpg",
+    "fecha_lanzamiento": "2021-09-14",
+    "rating": 3.96,
+    "hltb": {
+      "main_story": 16.38,
+      "main_extra": 24.47,
+      "completionist": 35.95
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1252330"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Outriders",
+    "platform": "PS5",
+    "metacritic_score": 73,
+    "imagen": "https://media.rawg.io/media/games/faa/faa6a4a7a2e57faf2960329630aee211.jpg",
+    "fecha_lanzamiento": "2021-04-01",
+    "rating": 3.38,
+    "hltb": {
+      "main_story": 16.36,
+      "main_extra": 35.87,
+      "completionist": 62.64
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/680420"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Biomutant",
+    "platform": "PS4",
+    "metacritic_score": 69,
+    "imagen": "https://media.rawg.io/media/games/363/363830e5f6459ca71eb43bea8c32f688.jpg",
+    "fecha_lanzamiento": "2021-05-25",
+    "rating": 2.75,
+    "hltb": {
+      "main_story": 12.87,
+      "main_extra": 24.42,
+      "completionist": 42.42
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/597820"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Scarlet Nexus",
+    "platform": "PS5",
+    "metacritic_score": 79,
+    "imagen": "https://media.rawg.io/media/games/27c/27cb94ed1763fec383fb99151580095a.jpg",
+    "fecha_lanzamiento": "2021-06-25",
+    "rating": 3.61,
+    "hltb": {
+      "main_story": 25.18,
+      "main_extra": 35.68,
+      "completionist": 60.69
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "$99.99",
+        "descuento": 80,
+        "en_oferta": true,
+        "url": "https://store.steampowered.com/app/775500"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Tales of Arise",
+    "platform": "PS5",
+    "metacritic_score": 85,
+    "imagen": "https://media.rawg.io/media/games/5a9/5a9e785af72ae88026380f7987f23d90.jpg",
+    "fecha_lanzamiento": "2021-09-10",
+    "rating": 3.93,
+    "hltb": {
+      "main_story": 41.16,
+      "main_extra": 56.54,
+      "completionist": 73.84
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$49.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/740130"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Dragon Quest XI",
+    "platform": "PS4",
+    "metacritic_score": 91,
+    "imagen": "https://media.rawg.io/media/games/e04/e041cc430f6b6681477580d3bcddf29f.jpg",
+    "fecha_lanzamiento": "2017-07-29",
+    "rating": 4.31,
+    "hltb": {
+      "main_story": 0.0,
+      "main_extra": 0.0,
+      "completionist": 0.0
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1295510"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Ni No Kuni II",
+    "platform": "PS4",
+    "metacritic_score": 82,
+    "imagen": "https://media.rawg.io/media/games/b92/b924c4beeed6617201d5d91511cfcf8e.jpg",
+    "fecha_lanzamiento": "2018-03-23",
+    "rating": 3.89,
+    "hltb": {
+      "main_story": 38.69,
+      "main_extra": 56.59,
+      "completionist": 93.29
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/589360"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Yakuza Like a Dragon",
+    "platform": "PS4",
+    "metacritic_score": 85,
+    "imagen": "https://media.rawg.io/media/games/a59/a5993b9f84944570a31cb6ad08bfe502.jpg",
+    "fecha_lanzamiento": "2020-01-16",
+    "rating": 4.35,
+    "hltb": {
+      "main_story": 46.08,
+      "main_extra": 67.98,
+      "completionist": 102.96
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1235140"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Judgment",
+    "platform": "PS4",
+    "metacritic_score": 82,
+    "imagen": "https://media.rawg.io/media/games/338/33848ebb15683ea022c08f39f01b810f.jpg",
+    "fecha_lanzamiento": "2018-12-13",
+    "rating": 4.36,
+    "hltb": {
+      "main_story": 27.77,
+      "main_extra": 46.2,
+      "completionist": 99.53
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2058190"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Lost Judgment",
+    "platform": "PS5",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/186/1864ee956f171b4c3d5791b82c15df2f.jpg",
+    "fecha_lanzamiento": "2021-09-24",
+    "rating": 4.35,
+    "hltb": {
+      "main_story": 24.26,
+      "main_extra": 53.41,
+      "completionist": 107.66
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2058190"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Baldurs Gate 3",
+    "platform": "PC",
+    "metacritic_score": 97,
+    "imagen": "https://media.rawg.io/media/games/699/69907ecf13f172e9e144069769c3be73.jpg",
+    "fecha_lanzamiento": "2023-08-03",
+    "rating": 4.45,
+    "hltb": {
+      "main_story": 72.93,
+      "main_extra": 116.08,
+      "completionist": 181.18
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1086940"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Divinity Original Sin 2",
+    "platform": "PC",
+    "metacritic_score": 95,
+    "imagen": "https://media.rawg.io/media/games/424/424facd40f4eb1f2794fe4b4bb28a277.jpg",
+    "fecha_lanzamiento": "2017-09-14",
+    "rating": 4.38,
+    "hltb": {
+      "main_story": 59.27,
+      "main_extra": 101.35,
+      "completionist": 157.79
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$44.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/435150"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Pathfinder Wrath of the Righteous",
+    "platform": "PC",
+    "metacritic_score": 81,
+    "imagen": "https://media.rawg.io/media/games/a20/a203f3f5d667e04ce4a2c482c7be3a47.jpg",
+    "fecha_lanzamiento": "2021-09-02",
+    "rating": 4.24,
+    "hltb": {
+      "main_story": 56.73,
+      "main_extra": 137.09,
+      "completionist": 258.54
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$5.99",
+        "precio_original": "$19.99",
+        "descuento": 70,
+        "en_oferta": true,
+        "url": "https://store.steampowered.com/app/1184370"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Pillars of Eternity II",
+    "platform": "PC",
+    "metacritic_score": 82,
+    "imagen": "https://media.rawg.io/media/games/86b/86bea42bc14fb1f9cb76b44c4450cbab.jpg",
+    "fecha_lanzamiento": "2018-05-07",
+    "rating": 4.11,
+    "hltb": {
+      "main_story": 41.87,
+      "main_extra": 65.84,
+      "completionist": 98.22
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/560130"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Wasteland 3",
+    "platform": "PC",
+    "metacritic_score": 83,
+    "imagen": "https://media.rawg.io/media/games/370/370a4cbcfa75e5238ee8f74bf323694d.jpg",
+    "fecha_lanzamiento": "2020-08-28",
+    "rating": 4.06,
+    "hltb": {
+      "main_story": 35.82,
+      "main_extra": 49.61,
+      "completionist": 75.29
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/719040"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Star Wars Jedi Fallen Order",
+    "platform": "PS4",
+    "metacritic_score": 80,
+    "imagen": "https://media.rawg.io/media/games/559/559bc0768f656ad0c63c54b80a82d680.jpg",
+    "fecha_lanzamiento": "2019-11-15",
+    "rating": 4.13,
+    "hltb": {
+      "main_story": 17.27,
+      "main_extra": 22.28,
+      "completionist": 31.81
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1172380"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Star Wars Jedi Survivor",
+    "platform": "PS5",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/3e4/3e43e29ae126ef951842393f5ff7f33a.jpg",
+    "fecha_lanzamiento": "2023-04-27",
+    "rating": 4.21,
+    "hltb": {
+      "main_story": 20.48,
+      "main_extra": 33.79,
+      "completionist": 55.37
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$69.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1774580"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Mass Effect Legendary Edition",
+    "platform": "PS4",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/64e/64e2a77f37ddc48d102127234af99886.jpg",
+    "fecha_lanzamiento": "2021-05-14",
+    "rating": 4.57,
+    "hltb": {
+      "main_story": 61.07,
+      "main_extra": 101.52,
+      "completionist": 138.11
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1328670"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Dragon Age Inquisition",
+    "platform": "PS4",
+    "metacritic_score": 86,
+    "imagen": "https://media.rawg.io/media/games/260/26023c855f1769a93411d6a7ea084632.jpeg",
+    "fecha_lanzamiento": "2014-11-18",
+    "rating": 3.8,
+    "hltb": {
+      "main_story": 46.63,
+      "main_extra": 87.36,
+      "completionist": 128.99
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1222690"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Assassins Creed Valhalla",
+    "platform": "PS5",
+    "metacritic_score": 82,
+    "imagen": "https://media.rawg.io/media/games/934/9346092ae11bf7582c883869468171cc.jpg",
+    "fecha_lanzamiento": "2020-11-10",
+    "rating": 3.68,
+    "hltb": {
+      "main_story": 61.16,
+      "main_extra": 99.07,
+      "completionist": 151.7
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2208920"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Assassins Creed Odyssey",
+    "platform": "PS4",
+    "metacritic_score": 85,
+    "imagen": "https://media.rawg.io/media/games/c6b/c6bd26767c1053fef2b10bb852943559.jpg",
+    "fecha_lanzamiento": "2018-10-05",
+    "rating": 3.97,
+    "hltb": {
+      "main_story": 45.61,
+      "main_extra": 85.43,
+      "completionist": 145.53
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/812140"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Assassins Creed Origins",
+    "platform": "PS4",
+    "metacritic_score": 81,
+    "imagen": "https://media.rawg.io/media/games/336/336c6bd63d83cf8e59937ab8895d1240.jpg",
+    "fecha_lanzamiento": "2017-10-27",
+    "rating": 3.96,
+    "hltb": {
+      "main_story": 30.16,
+      "main_extra": 52.56,
+      "completionist": 85.48
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/582160"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Watch Dogs Legion",
+    "platform": "PS5",
+    "metacritic_score": 72,
+    "imagen": "https://media.rawg.io/media/games/415/41563ce6cb061a210160687a4e5d39f6.jpg",
+    "fecha_lanzamiento": "2020-10-29",
+    "rating": 3.12,
+    "hltb": {
+      "main_story": 18.16,
+      "main_extra": 33.04,
+      "completionist": 50.15
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2239550"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Far Cry 6",
+    "platform": "PS5",
+    "metacritic_score": 75,
+    "imagen": "https://media.rawg.io/media/games/5dd/5dd4d2dd986d2826800bc37fff64aa4f.jpg",
+    "fecha_lanzamiento": "2021-10-07",
+    "rating": 3.36,
+    "hltb": {
+      "main_story": 24.69,
+      "main_extra": 41.66,
+      "completionist": 65.14
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2369390"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Rainbow Six Siege",
+    "platform": "PC",
+    "metacritic_score": 75,
+    "imagen": "https://media.rawg.io/media/games/b34/b3419c2706f8f8dbe40d08e23642ad06.jpg",
+    "fecha_lanzamiento": "2015-12-01",
+    "rating": 3.88,
+    "hltb": {
+      "main_story": 3.32,
+      "main_extra": 26.39,
+      "completionist": 153.47
+    },
+    "precios": [
+      {
+        "tienda": "Ubisoft Store",
+        "precio_actual": "$19.99",
+        "precio_original": "$19.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.ubisoft.com/rainbow-six-siege"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "title": "For Honor",
+    "platform": "PC",
+    "metacritic_score": 76,
+    "imagen": "https://media.rawg.io/media/games/4e0/4e0e7b6d6906a131307c94266e5c9a1c.jpg",
+    "fecha_lanzamiento": "2017-02-13",
+    "rating": 3.3,
+    "hltb": {
+      "main_story": 7.04,
+      "main_extra": 10.99,
+      "completionist": 18.25
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/304390"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "title": "The Division 2",
+    "platform": "PS4",
+    "metacritic_score": 83,
+    "imagen": "https://media.rawg.io/media/games/0e5/0e5e869f2e8f496b3f09e00187ea94fc.jpg",
+    "fecha_lanzamiento": "2019-03-15",
+    "rating": 3.74,
+    "hltb": {
+      "main_story": 26.0,
+      "main_extra": 48.15,
+      "completionist": 99.21
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2221490"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Ghost Recon Breakpoint",
+    "platform": "PS4",
+    "metacritic_score": 59,
+    "imagen": "https://media.rawg.io/media/games/b0a/b0aa291a4f8e49f389f2785b7f449328.jpg",
+    "fecha_lanzamiento": "2019-10-04",
+    "rating": 2.92,
+    "hltb": {
+      "main_story": 23.32,
+      "main_extra": 54.32,
+      "completionist": 100.17
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2231380"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Immortals Fenyx Rising",
+    "platform": "PS4",
+    "metacritic_score": 78,
+    "imagen": "https://media.rawg.io/media/games/d51/d51ada3b94bfd617bf91d4344ab81ce9.jpg",
+    "fecha_lanzamiento": "2020-12-03",
+    "rating": 3.72,
+    "hltb": {
+      "main_story": 25.43,
+      "main_extra": 41.28,
+      "completionist": 62.11
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2221920"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Prince of Persia The Lost Crown",
+    "platform": "Switch",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/cca/ccaa933775fe1ffcebe40a01f52545db.jpg",
+    "fecha_lanzamiento": "2024-01-18",
+    "rating": 3.95,
+    "hltb": {
+      "main_story": 16.68,
+      "main_extra": 24.49,
+      "completionist": 31.22
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2751000"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Batman Arkham Knight",
+    "platform": "PS4",
+    "metacritic_score": 81,
+    "imagen": "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg",
+    "fecha_lanzamiento": "2015-06-23",
+    "rating": 4.24,
+    "hltb": {
+      "main_story": 17.03,
+      "main_extra": 31.46,
+      "completionist": 51.19
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/208650"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Batman Arkham City",
+    "platform": "PS4",
+    "metacritic_score": 94,
+    "imagen": "https://media.rawg.io/media/games/b5a/b5a1226bfd971284a735a4a0969086b3.jpg",
+    "fecha_lanzamiento": "2011-10-18",
+    "rating": 4.41,
+    "hltb": {
+      "main_story": 12.44,
+      "main_extra": 21.55,
+      "completionist": 45.88
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/200260"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Mortal Kombat 11",
+    "platform": "PS4",
+    "metacritic_score": 82,
+    "imagen": "https://media.rawg.io/media/games/eb5/eb514db62d397c64288160d5bd8fd67a.jpg",
+    "fecha_lanzamiento": "2019-04-22",
+    "rating": 3.97,
+    "hltb": {
+      "main_story": 6.31,
+      "main_extra": 18.25,
+      "completionist": 62.12
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$49.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/976310"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Injustice 2",
+    "platform": "PS4",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/e42/e428e70c97064037326d7863a43a0454.jpg",
+    "fecha_lanzamiento": "2017-05-09",
+    "rating": 3.92,
+    "hltb": {
+      "main_story": 5.68,
+      "main_extra": 15.7,
+      "completionist": 53.21
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$49.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/627270"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Street Fighter 6",
+    "platform": "PS5",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/ce2/ce2463db40cec363f360c29ddcc56884.jpg",
+    "fecha_lanzamiento": "2023-06-01",
+    "rating": 4.13,
+    "hltb": {
+      "main_story": 17.3,
+      "main_extra": 34.11,
+      "completionist": 73.24
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1364780"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Tekken 8",
+    "platform": "PS5",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/ed3/ed3a5e9fab79022979de9ef420137f73.jpg",
+    "fecha_lanzamiento": "2024-01-25",
+    "rating": 4.01,
+    "hltb": {
+      "main_story": 4.17,
+      "main_extra": 10.89,
+      "completionist": 17.05
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$23.99",
+        "precio_original": "$39.99",
+        "descuento": 40,
+        "en_oferta": true,
+        "url": "https://store.steampowered.com/app/1778820"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Dragon Ball FighterZ",
+    "platform": "PS4",
+    "metacritic_score": 86,
+    "imagen": "https://media.rawg.io/media/games/96b/96b9420bbd4bd1b79bf2a67f7779733a.jpg",
+    "fecha_lanzamiento": "2018-01-25",
+    "rating": 4.09,
+    "hltb": {
+      "main_story": 11.97,
+      "main_extra": 22.01,
+      "completionist": 51.07
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/678950"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Guilty Gear Strive",
+    "platform": "PS5",
+    "metacritic_score": 85,
+    "imagen": "https://media.rawg.io/media/games/dfe/dfe14d30ed6fccd9db4ae79d3be51d54.jpg",
+    "fecha_lanzamiento": "2021-06-11",
+    "rating": 4.23,
+    "hltb": {
+      "main_story": 4.97,
+      "main_extra": 26.35,
+      "completionist": 58.96
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1384160"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "title": "Soulcalibur VI",
+    "platform": "PS4",
+    "metacritic_score": 83,
+    "imagen": "https://media.rawg.io/media/games/91b/91be1a00c767f9e3d79353e505d7f85a.jpg",
+    "fecha_lanzamiento": "2018-10-19",
+    "rating": 3.7,
+    "hltb": {
+      "main_story": 6.94,
+      "main_extra": 19.31,
+      "completionist": 38.72
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$14.39",
+        "precio_original": "$89.99",
+        "descuento": 84,
+        "en_oferta": true,
+        "url": "https://store.steampowered.com/app/544750"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Nickelodeon All Star Brawl",
+    "platform": "Switch",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/a53/a53575214f12dadb9f6d7dca9b24cda4.jpg",
+    "fecha_lanzamiento": "2021-10-05",
+    "rating": 2.86,
+    "hltb": {
+      "main_story": 1.06,
+      "main_extra": 5.11,
+      "completionist": 9.07
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$49.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1414850"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Diablo IV",
+    "platform": "PS5",
+    "metacritic_score": 90,
+    "imagen": "https://media.rawg.io/media/games/77d/77d51f8f4a07c3eecb0f8504027b1bf0.jpg",
+    "fecha_lanzamiento": "2023-06-06",
+    "rating": 3.75,
+    "hltb": {
+      "main_story": 25.81,
+      "main_extra": 48.96,
+      "completionist": 190.46
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$49.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2344520"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Diablo III",
+    "platform": "PS4",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/a27/a275556fab1a6acaded4cedad0f9dc80.jpg",
+    "fecha_lanzamiento": "2012-05-15",
+    "rating": 4.09,
+    "hltb": {
+      "main_story": 18.16,
+      "main_extra": 45.04,
+      "completionist": 171.12
+    },
+    "precios": [
+      {
+        "tienda": "Battle.net",
+        "precio_actual": "$19.99",
+        "precio_original": "$19.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://us.battle.net/shop/product/diablo-iii"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Path of Exile",
+    "platform": "PC",
+    "metacritic_score": 86,
+    "imagen": "https://media.rawg.io/media/games/d0f/d0f91fe1d92332147e5db74e207cfc7a.jpg",
+    "fecha_lanzamiento": "2013-10-23",
+    "rating": 3.65,
+    "hltb": {
+      "main_story": 29.94,
+      "main_extra": 107.92,
+      "completionist": 790.88
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2694490"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Torchlight III",
+    "platform": "PC",
+    "metacritic_score": 64,
+    "imagen": "https://media.rawg.io/media/games/10c/10ca05d82f1e1db800e6bc2314895383.jpg",
+    "fecha_lanzamiento": "2020-10-13",
+    "rating": 2.88,
+    "hltb": {
+      "main_story": 15.7,
+      "main_extra": 23.55,
+      "completionist": 40.12
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1030210"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Grim Dawn",
+    "platform": "PC",
+    "metacritic_score": 83,
+    "imagen": "https://media.rawg.io/media/games/920/92039cd19460532b76f6244b2bb3e4ac.jpg",
+    "fecha_lanzamiento": "2016-02-25",
+    "rating": 3.96,
+    "hltb": {
+      "main_story": 21.56,
+      "main_extra": 48.16,
+      "completionist": 244.34
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$24.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/219990"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Starfield",
+    "platform": "Xbox",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/ba8/ba82c971336adfd290e4c0eab6504fcf.jpg",
+    "fecha_lanzamiento": "2023-09-06",
+    "rating": 3.25,
+    "hltb": {
+      "main_story": 23.89,
+      "main_extra": 74.62,
+      "completionist": 149.16
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$49.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1716740"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "title": "The Elder Scrolls Online",
+    "platform": "PC",
+    "metacritic_score": 71,
+    "imagen": "https://media.rawg.io/media/games/1af/1af8786543bcd0ec61a509604902a41f.jpg",
+    "fecha_lanzamiento": "2014-04-04",
+    "rating": 3.66,
+    "hltb": {
+      "main_story": 47.9,
+      "main_extra": 207.44,
+      "completionist": 606.92
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/306130"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Fallout 76",
+    "platform": "PS4",
+    "metacritic_score": 51,
+    "imagen": "https://media.rawg.io/media/games/151/151e79f397328419c64aabe93d9d5a31.jpg",
+    "fecha_lanzamiento": "2018-11-14",
+    "rating": 2.84,
+    "hltb": {
+      "main_story": 36.28,
+      "main_extra": 116.49,
+      "completionist": 315.36
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1151340"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Fallout 4",
+    "platform": "PS4",
+    "metacritic_score": 84,
+    "imagen": "https://media.rawg.io/media/games/d82/d82990b9c67ba0d2d09d4e6fa88885a7.jpg",
+    "fecha_lanzamiento": "2015-11-09",
+    "rating": 3.81,
+    "hltb": {
+      "main_story": 27.81,
+      "main_extra": 83.05,
+      "completionist": 160.63
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/377160"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Prey",
+    "platform": "PS4",
+    "metacritic_score": 80,
+    "imagen": "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg",
+    "fecha_lanzamiento": "2017-05-05",
+    "rating": 4.28,
+    "hltb": {
+      "main_story": 16.36,
+      "main_extra": 27.92,
+      "completionist": 46.43
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/480490"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Dishonored 2",
+    "platform": "PS4",
+    "metacritic_score": 86,
+    "imagen": "https://media.rawg.io/media/games/f6b/f6bed028b02369d4cab548f4f9337e81.jpg",
+    "fecha_lanzamiento": "2016-11-10",
+    "rating": 4.26,
+    "hltb": {
+      "main_story": 12.51,
+      "main_extra": 22.74,
+      "completionist": 46.21
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/403640"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Deathloop",
+    "platform": "PC",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/018/01857c5ff9579c48fa8bd76b4d83a946.jpg",
+    "fecha_lanzamiento": "2021-09-14",
+    "rating": 3.96,
+    "hltb": {
+      "main_story": 16.38,
+      "main_extra": 24.47,
+      "completionist": 35.95
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1252330"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Ghostbusters Spirits Unleashed",
+    "platform": "PS5",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/351/351b4c4c88e51e461e63d1b6f2080fb2.jpg",
+    "fecha_lanzamiento": "2022-10-18",
+    "rating": 0.0,
+    "hltb": {
+      "main_story": 7.42,
+      "main_extra": 8.0,
+      "completionist": 22.65
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2383990"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Back 4 Blood",
+    "platform": "PS5",
+    "metacritic_score": 76,
+    "imagen": "https://media.rawg.io/media/games/4fe/4feffcec6315c5f5a96442a8444431ca.jpg",
+    "fecha_lanzamiento": "2021-10-07",
+    "rating": 3.23,
+    "hltb": {
+      "main_story": 12.03,
+      "main_extra": 23.3,
+      "completionist": 97.55
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/924970"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Dying Light 2",
+    "platform": "PS5",
+    "metacritic_score": 77,
+    "imagen": "https://media.rawg.io/media/games/73d/73db43df633477d4604c7248292f34b2.jpg",
+    "fecha_lanzamiento": "2022-02-04",
+    "rating": 3.64,
+    "hltb": {
+      "main_story": 24.35,
+      "main_extra": 49.21,
+      "completionist": 102.45
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$59.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/534380"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "title": "Days Gone",
+    "platform": "PS4",
+    "metacritic_score": 74,
+    "imagen": "https://media.rawg.io/media/games/a79/a79d2fc90c4dbf07a8580b19600fd61d.jpg",
+    "fecha_lanzamiento": "2019-04-26",
+    "rating": 3.97,
+    "hltb": {
+      "main_story": 36.45,
+      "main_extra": 50.61,
+      "completionist": 65.61
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1259420"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "title": "The Medium",
+    "platform": "Xbox",
+    "metacritic_score": 74,
+    "imagen": "https://media.rawg.io/media/games/8f5/8f5c25901d96e709ea631599106eda1c.jpg",
+    "fecha_lanzamiento": "2021-01-28",
+    "rating": 3.53,
+    "hltb": {
+      "main_story": 8.02,
+      "main_extra": 8.98,
+      "completionist": 10.0
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$49.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1293160"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Alan Wake 2",
+    "platform": "PS5",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/5b9/5b963d7633cd640fa2dbc4069d1c6377.jpg",
+    "fecha_lanzamiento": "2023-10-27",
+    "rating": 4.34,
+    "hltb": {
+      "main_story": 19.09,
+      "main_extra": 26.13,
+      "completionist": 32.33
+    },
+    "precios": [
+      {
+        "tienda": "PlayStation Store",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.playstation.com/search/Alan%20Wake%202"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Amnesia The Bunker",
+    "platform": "PC",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/a45/a45abc50643f0fa355f5cb24cbb94744.jpg",
+    "fecha_lanzamiento": "2023-06-06",
+    "rating": 3.75,
+    "hltb": {
+      "main_story": 5.43,
+      "main_extra": 7.41,
+      "completionist": 13.67
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$24.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1944430"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Resident Evil 3 Remake",
+    "platform": "PS4",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/screenshots/de3/de3a30ea61f93a5634674977dc623ec8.jpg",
+    "fecha_lanzamiento": "2021-11-19",
+    "rating": 0.0,
+    "hltb": {
+      "main_story": 5.97,
+      "main_extra": 7.65,
+      "completionist": 20.33
+    },
+    "precios": [
+      {
+        "tienda": "PlayStation Store",
+        "precio_actual": "$39.99",
+        "precio_original": "$39.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.playstation.com/search/Resident%20Evil%203%20Remake"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "title": "Little Nightmares II",
+    "platform": "PS4",
+    "metacritic_score": 82,
+    "imagen": "https://media.rawg.io/media/games/c2a/c2a7dc4540eb79aaff7099ae691105d3.jpg",
+    "fecha_lanzamiento": "2021-02-10",
+    "rating": 4.37,
+    "hltb": {
+      "main_story": 5.65,
+      "main_extra": 6.63,
+      "completionist": 8.7
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/860510"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Plague Tale Innocence",
+    "platform": "PS4",
+    "metacritic_score": 82,
+    "imagen": "https://media.rawg.io/media/games/b4a/b4adf80c36e267b35acc3497ed2af19c.jpg",
+    "fecha_lanzamiento": "2019-05-13",
+    "rating": 4.15,
+    "hltb": {
+      "main_story": 10.94,
+      "main_extra": 12.58,
+      "completionist": 15.93
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/752590"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "title": "Plague Tale Requiem",
+    "platform": "PS5",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/cd0/cd074f3f6045297cda9ad077273c09b6.jpg",
+    "fecha_lanzamiento": "2022-10-17",
+    "rating": 4.28,
+    "hltb": {
+      "main_story": 17.02,
+      "main_extra": 19.58,
+      "completionist": 27.4
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$49.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1182900"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "title": "Hellblade Senuas Sacrifice",
+    "platform": "PS4",
+    "metacritic_score": 83,
+    "imagen": "https://media.rawg.io/media/games/63f/63f0e68688cad279ed38cde931dbfcdb.jpg",
+    "fecha_lanzamiento": "2017-08-07",
+    "rating": 4.22,
+    "hltb": {
+      "main_story": 7.53,
+      "main_extra": 8.19,
+      "completionist": 9.22
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/414340"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "title": "Senuas Saga Hellblade II",
+    "platform": "Xbox",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/b5c/b5ced2e44396160e62ff8d70e3adda71.jpg",
+    "fecha_lanzamiento": "2024-05-21",
+    "rating": 3.95,
+    "hltb": {
+      "main_story": 7.1,
+      "main_extra": 8.07,
+      "completionist": 9.33
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$49.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2461850"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "title": "It Takes Two",
+    "platform": "PS4",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/d47/d479582ed0a46496ad34f65c7099d7e5.jpg",
+    "fecha_lanzamiento": "2021-03-26",
+    "rating": 4.46,
+    "hltb": {
+      "main_story": 12.8,
+      "main_extra": 14.21,
+      "completionist": 16.44
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1426210"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "title": "Hazelight A Way Out",
+    "platform": "PS4",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/screenshots/350/350e8e5e45d0de485160e9b05be4d352.jpg",
+    "fecha_lanzamiento": "2018-02-28",
+    "rating": 0.0,
+    "hltb": {
+      "main_story": "N/A",
+      "main_extra": "N/A",
+      "completionist": "N/A"
+    },
+    "precios": [
+      {
+        "tienda": "EA App",
+        "precio_actual": "$29.99",
+        "precio_original": "$29.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.ea.com/games/a-way-out"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "title": "Overcooked 2",
+    "platform": "Switch",
+    "metacritic_score": 81,
+    "imagen": "https://media.rawg.io/media/games/270/270b412b66688081497b3d70c100b208.jpg",
+    "fecha_lanzamiento": "2016-08-01",
+    "rating": 4.07,
+    "hltb": {
+      "main_story": 7.09,
+      "main_extra": 11.78,
+      "completionist": 25.42
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$24.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/728880"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "title": "Moving Out",
+    "platform": "Switch",
+    "metacritic_score": 77,
+    "imagen": "https://media.rawg.io/media/games/726/7263e11b6bfb15abe35dcfa3b26147f5.jpg",
+    "fecha_lanzamiento": "2020-04-28",
+    "rating": 3.65,
+    "hltb": {
+      "main_story": 5.22,
+      "main_extra": 10.02,
+      "completionist": 18.82
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1641700"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "title": "Lovers in a Dangerous Spacetime",
+    "platform": "Switch",
+    "metacritic_score": 80,
+    "imagen": "https://media.rawg.io/media/games/b47/b47da312357f548ceeb3a4d00021cd1d.jpg",
+    "fecha_lanzamiento": "2015-09-08",
+    "rating": 3.57,
+    "hltb": {
+      "main_story": 5.61,
+      "main_extra": 8.48,
+      "completionist": 12.91
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$14.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/252110"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "title": "Pikmin 4",
+    "platform": "Switch",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/274/2740b879e28df2ac3cdbc929a553863d.jpg",
+    "fecha_lanzamiento": "2023-07-21",
+    "rating": 4.26,
+    "hltb": {
+      "main_story": 17.67,
+      "main_extra": 28.71,
+      "completionist": 39.76
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Pikmin%204"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "title": "Fire Emblem Engage",
+    "platform": "Switch",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/4c4/4c41c96a4ecbbff9ed23f62590e9b720.jpg",
+    "fecha_lanzamiento": "2023-01-20",
+    "rating": 4.08,
+    "hltb": {
+      "main_story": 41.13,
+      "main_extra": 65.01,
+      "completionist": 90.9
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Fire%20Emblem%20Engage"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "title": "Fire Emblem Three Houses",
+    "platform": "Switch",
+    "metacritic_score": 89,
+    "imagen": "https://media.rawg.io/media/games/530/53081dbd5003f990fa5312404ac3d71a.jpg",
+    "fecha_lanzamiento": "2019-07-26",
+    "rating": 4.35,
+    "hltb": {
+      "main_story": 49.27,
+      "main_extra": 76.67,
+      "completionist": 210.32
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Fire%20Emblem%20Three%20Houses"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "title": "Xenoblade Chronicles 3",
+    "platform": "Switch",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/ae7/ae7cfc9a66232839112663899d2c8d8d.jpg",
+    "fecha_lanzamiento": "2022-07-29",
+    "rating": 4.32,
+    "hltb": {
+      "main_story": 62.22,
+      "main_extra": 102.45,
+      "completionist": 173.96
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Xenoblade%20Chronicles%203"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "title": "Astral Chain",
+    "platform": "Switch",
+    "metacritic_score": 87,
+    "imagen": "https://media.rawg.io/media/games/75b/75b91d05160c819fa6bbafe920548300.jpg",
+    "fecha_lanzamiento": "2019-08-30",
+    "rating": 4.24,
+    "hltb": {
+      "main_story": 20.55,
+      "main_extra": 28.15,
+      "completionist": 81.17
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Astral%20Chain"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "title": "Luigi Mansion 3",
+    "platform": "Switch",
+    "metacritic_score": 86,
+    "imagen": "https://media.rawg.io/media/games/3d9/3d972802b9ee793098b73ecf676b687e.jpeg",
+    "fecha_lanzamiento": "2019-10-31",
+    "rating": 4.27,
+    "hltb": {
+      "main_story": 13.17,
+      "main_extra": 16.91,
+      "completionist": 22.0
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Luigi%20Mansion%203"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "title": "Paper Mario Origami King",
+    "platform": "Switch",
+    "metacritic_score": 80,
+    "imagen": "https://media.rawg.io/media/games/075/07556ef3826d83fdb19c8e1836d25c1a.jpg",
+    "fecha_lanzamiento": "2020-07-17",
+    "rating": 3.98,
+    "hltb": {
+      "main_story": 26.95,
+      "main_extra": 32.51,
+      "completionist": 44.0
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Paper%20Mario%20Origami%20King"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "title": "Super Mario Odyssey",
+    "platform": "Switch",
+    "metacritic_score": 97,
+    "imagen": "https://media.rawg.io/media/games/267/267bd0dbc496f52692487d07d014c061.jpg",
+    "fecha_lanzamiento": "2017-10-27",
+    "rating": 4.42,
+    "hltb": {
+      "main_story": 12.48,
+      "main_extra": 26.87,
+      "completionist": 61.99
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Super%20Mario%20Odyssey"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "title": "Super Smash Bros Ultimate",
+    "platform": "Switch",
+    "metacritic_score": 93,
+    "imagen": "https://media.rawg.io/media/games/9f3/9f3c513b301d8d7250a64dd7e73c62df.jpg",
+    "fecha_lanzamiento": "2018-12-07",
+    "rating": 4.37,
+    "hltb": {
+      "main_story": 24.08,
+      "main_extra": 42.8,
+      "completionist": 76.46
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Super%20Smash%20Bros%20Ultimate"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "title": "Donkey Kong Country Tropical Freeze",
+    "platform": "Switch",
+    "metacritic_score": 84,
+    "imagen": "https://media.rawg.io/media/games/c31/c31655ab2640da333f5ca3f223d33a12.jpg",
+    "fecha_lanzamiento": "2014-02-13",
+    "rating": 4.35,
+    "hltb": {
+      "main_story": 10.4,
+      "main_extra": 18.47,
+      "completionist": 31.58
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Donkey%20Kong%20Country%20Tropical%20Freeze"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "title": "Captain Toad Treasure Tracker",
+    "platform": "Switch",
+    "metacritic_score": 81,
+    "imagen": "https://media.rawg.io/media/games/56f/56f074a9deb83de61434c5498ab86b27.jpeg",
+    "fecha_lanzamiento": "2014-11-13",
+    "rating": 4.1,
+    "hltb": {
+      "main_story": 7.07,
+      "main_extra": 11.43,
+      "completionist": 19.55
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Captain%20Toad%20Treasure%20Tracker"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "title": "Yoshi Crafted World",
+    "platform": "Switch",
+    "metacritic_score": 79,
+    "imagen": "https://media.rawg.io/media/games/56d/56df082b7182fef977d22482b5dfd648.jpg",
+    "fecha_lanzamiento": "2019-03-29",
+    "rating": 3.8,
+    "hltb": {
+      "main_story": 8.27,
+      "main_extra": 16.46,
+      "completionist": 35.57
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Yoshi%20Crafted%20World"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "title": "New Super Mario Bros U Deluxe",
+    "platform": "Switch",
+    "metacritic_score": 80,
+    "imagen": "https://media.rawg.io/media/games/61c/61cf09a86fe686a01a0c9863fc4230a7.jpeg",
+    "fecha_lanzamiento": "2019-01-11",
+    "rating": 3.83,
+    "hltb": {
+      "main_story": 9.06,
+      "main_extra": 16.31,
+      "completionist": 28.29
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=New%20Super%20Mario%20Bros%20U%20Deluxe"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "title": "Mario Party Superstars",
+    "platform": "Switch",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/92c/92cb7c505365879a95d08fe11cc6ac8b.jpg",
+    "fecha_lanzamiento": "2021-10-29",
+    "rating": 3.89,
+    "hltb": {
+      "main_story": 9.03,
+      "main_extra": 21.82,
+      "completionist": 67.85
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=Mario%20Party%20Superstars"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "title": "WarioWare Get It Together",
+    "platform": "Switch",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/6bc/6bca5498348295582144f9fb3e105ba7.jpg",
+    "fecha_lanzamiento": "2021-09-10",
+    "rating": 4.02,
+    "hltb": {
+      "main_story": 2.56,
+      "main_extra": 4.77,
+      "completionist": 30.66
+    },
+    "precios": [
+      {
+        "tienda": "Nintendo eShop",
+        "precio_actual": "$59.99",
+        "precio_original": "$59.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.nintendo.com/search/#q=WarioWare%20Get%20It%20Together"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "title": "Neon White",
+    "platform": "Switch",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/a12/a120fc7faed7666f8c320a755137e316.jpg",
+    "fecha_lanzamiento": "2022-06-16",
+    "rating": 4.35,
+    "hltb": {
+      "main_story": 10.49,
+      "main_extra": 18.46,
+      "completionist": 24.8
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$9.99",
+        "precio_original": "$24.99",
+        "descuento": 60,
+        "en_oferta": true,
+        "url": "https://store.steampowered.com/app/1533420"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "title": "Tunic",
+    "platform": "Xbox",
+    "metacritic_score": 86,
+    "imagen": "https://media.rawg.io/media/games/2c1/2c1984e128ac48b89953ed4de4904a3b.jpg",
+    "fecha_lanzamiento": "2022-03-16",
+    "rating": 4.11,
+    "hltb": {
+      "main_story": 12.3,
+      "main_extra": 16.68,
+      "completionist": 21.7
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/553420"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "title": "12 Minutes",
+    "platform": "Xbox",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/screenshots/fea/feaf94f6968322d2c84a6526db44c9d7.jpg",
+    "fecha_lanzamiento": "2015-10-26",
+    "rating": 0.0,
+    "hltb": {
+      "main_story": 4.25,
+      "main_extra": 5.64,
+      "completionist": 7.49
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$7.49",
+        "precio_original": "$24.99",
+        "descuento": 70,
+        "en_oferta": true,
+        "url": "https://store.steampowered.com/app/1097200"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "title": "The Forgotten City",
+    "platform": "PS4",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/6e9/6e9136f09bb9daaaed5a0e6d508028b4.jpg",
+    "fecha_lanzamiento": "2021-07-28",
+    "rating": 4.24,
+    "hltb": {
+      "main_story": 6.02,
+      "main_extra": 8.52,
+      "completionist": 10.55
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$24.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/874260"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "title": "Outer Wilds",
+    "platform": "PS4",
+    "metacritic_score": 84,
+    "imagen": "https://media.rawg.io/media/games/9f4/9f418898f5415668ca47b5f4ab1ecfeb.jpg",
+    "fecha_lanzamiento": "2019-05-29",
+    "rating": 4.36,
+    "hltb": {
+      "main_story": 17.08,
+      "main_extra": 22.69,
+      "completionist": 28.91
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$12.49",
+        "precio_original": "$24.99",
+        "descuento": 50,
+        "en_oferta": true,
+        "url": "https://store.steampowered.com/app/753640"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "title": "Return of the Obra Dinn",
+    "platform": "PC",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/052/052f9afc7aaeea3e2c5d46eafa92c64e.jpg",
+    "fecha_lanzamiento": "2018-10-17",
+    "rating": 4.33,
+    "hltb": {
+      "main_story": 8.2,
+      "main_extra": 9.47,
+      "completionist": 10.5
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/653530"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "title": "Obra Dinn",
+    "platform": "PC",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/052/052f9afc7aaeea3e2c5d46eafa92c64e.jpg",
+    "fecha_lanzamiento": "2018-10-17",
+    "rating": 4.33,
+    "hltb": {
+      "main_story": 8.2,
+      "main_extra": 9.47,
+      "completionist": 10.5
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/653530"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "title": "What Remains of Edith Finch",
+    "platform": "PS4",
+    "metacritic_score": 89,
+    "imagen": "https://media.rawg.io/media/games/34e/34e100b1f648de99f32d477065f04653.jpg",
+    "fecha_lanzamiento": "2017-04-23",
+    "rating": 4.38,
+    "hltb": {
+      "main_story": 2.12,
+      "main_extra": 2.54,
+      "completionist": 2.88
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$4.99",
+        "precio_original": "$19.99",
+        "descuento": 75,
+        "en_oferta": true,
+        "url": "https://store.steampowered.com/app/501300"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "title": "Firewatch",
+    "platform": "PS4",
+    "metacritic_score": 81,
+    "imagen": "https://media.rawg.io/media/games/0be/0bea0a08a4d954337305391b778a7f37.jpg",
+    "fecha_lanzamiento": "2016-02-08",
+    "rating": 4.3,
+    "hltb": {
+      "main_story": 4.07,
+      "main_extra": 4.67,
+      "completionist": 5.16
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/383870"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "title": "Oxenfree",
+    "platform": "Switch",
+    "metacritic_score": 80,
+    "imagen": "https://media.rawg.io/media/games/7ba/7baf4663962bad7197e2470d59a6e322.jpg",
+    "fecha_lanzamiento": "2016-01-14",
+    "rating": 3.91,
+    "hltb": {
+      "main_story": 4.45,
+      "main_extra": 5.67,
+      "completionist": 13.18
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1574310"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "title": "Night in the Woods",
+    "platform": "PS4",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/b0a/b0a370527fea0e824225269d4a8797db.jpg",
+    "fecha_lanzamiento": "2017-02-21",
+    "rating": 4.25,
+    "hltb": {
+      "main_story": 8.88,
+      "main_extra": 12.26,
+      "completionist": 24.73
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/481510"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "title": "Spiritfarer",
+    "platform": "Switch",
+    "metacritic_score": 84,
+    "imagen": "https://media.rawg.io/media/games/727/727f889060e688bbdcba7b2a5d26a603.jpg",
+    "fecha_lanzamiento": "2020-08-18",
+    "rating": 4.12,
+    "hltb": {
+      "main_story": 25.48,
+      "main_extra": 33.05,
+      "completionist": 42.43
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/972660"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "title": "Chicory A Colorful Tale",
+    "platform": "PS4",
+    "metacritic_score": 89,
+    "imagen": "https://media.rawg.io/media/games/710/71095dec34962a167121a9d67838818f.jpg",
+    "fecha_lanzamiento": "2021-06-10",
+    "rating": 3.92,
+    "hltb": {
+      "main_story": 9.21,
+      "main_extra": 12.83,
+      "completionist": 20.62
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1123450"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "title": "Sable",
+    "platform": "Xbox",
+    "metacritic_score": 74,
+    "imagen": "https://media.rawg.io/media/games/46a/46acc41c5ee0aea0e2d9c685a9a7427b.jpg",
+    "fecha_lanzamiento": "2021-09-23",
+    "rating": 3.48,
+    "hltb": {
+      "main_story": 7.51,
+      "main_extra": 14.19,
+      "completionist": 20.79
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$24.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/757310"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "title": "Eastward",
+    "platform": "Switch",
+    "metacritic_score": 80,
+    "imagen": "https://media.rawg.io/media/games/cd3/cd3bf69db1093510cf1386b76564ea70.jpg",
+    "fecha_lanzamiento": "2021-09-16",
+    "rating": 3.69,
+    "hltb": {
+      "main_story": 20.21,
+      "main_extra": 24.98,
+      "completionist": 33.39
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$24.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/977880"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "title": "Omori",
+    "platform": "PC",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/2cb/2cb0d8e4cb57e7b03576619be68326c8.jpg",
+    "fecha_lanzamiento": "2020-12-25",
+    "rating": 4.36,
+    "hltb": {
+      "main_story": 0.0,
+      "main_extra": 0.0,
+      "completionist": 0.0
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1150690"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "title": "Deltarune",
+    "platform": "PC",
+    "metacritic_score": 81,
+    "imagen": "https://media.rawg.io/media/games/7a9/7a907fb5e158c8dc34e783d9c22674c3.jpg",
+    "fecha_lanzamiento": "2018-10-30",
+    "rating": 4.35,
+    "hltb": {
+      "main_story": 16.7,
+      "main_extra": 24.02,
+      "completionist": 41.59
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$24.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1671210"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "title": "CrossCode",
+    "platform": "Switch",
+    "metacritic_score": 82,
+    "imagen": "https://media.rawg.io/media/screenshots/cd6/cd6825467cb0f6a478a016b242d5d247.jpg",
+    "fecha_lanzamiento": "2015-03-03",
+    "rating": 4.27,
+    "hltb": {
+      "main_story": 35.75,
+      "main_extra": 54.67,
+      "completionist": 79.33
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/368340"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "title": "Blasphemous",
+    "platform": "Switch",
+    "metacritic_score": 78,
+    "imagen": "https://media.rawg.io/media/games/b01/b01aa6b2d6d4f683203e9471a8b8d5b5.jpg",
+    "fecha_lanzamiento": "2019-09-09",
+    "rating": 4.04,
+    "hltb": {
+      "main_story": 14.01,
+      "main_extra": 19.91,
+      "completionist": 31.07
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/2114740"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "title": "Salt and Sanctuary",
+    "platform": "PS4",
+    "metacritic_score": 84,
+    "imagen": "https://media.rawg.io/media/games/dd1/dd1cc63c37361fa5c8122daec9bae8bf.jpg",
+    "fecha_lanzamiento": "2016-03-15",
+    "rating": 3.91,
+    "hltb": {
+      "main_story": 16.46,
+      "main_extra": 21.52,
+      "completionist": 32.11
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$17.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/283640"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "title": "Hollow Knight Silksong",
+    "platform": "Switch",
+    "metacritic_score": null,
+    "imagen": "https://media.rawg.io/media/games/27c/27cd8b7dead05a870f8a514a9a1915ad.jpg",
+    "fecha_lanzamiento": "2025-09-04",
+    "rating": 4.39,
+    "hltb": {
+      "main_story": 28.2,
+      "main_extra": 46.69,
+      "completionist": 64.61
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1030300"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "title": "Shovel Knight",
+    "platform": "Switch",
+    "metacritic_score": 85,
+    "imagen": "https://media.rawg.io/media/games/0a5/0a5085a3fbe26be9cf9f96ff8c12746d.jpg",
+    "fecha_lanzamiento": "2014-06-26",
+    "rating": 4.29,
+    "hltb": {
+      "main_story": 6.66,
+      "main_extra": 9.51,
+      "completionist": 18.48
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.19",
+        "precio_original": "$39.99",
+        "descuento": 52,
+        "en_oferta": true,
+        "url": "https://store.steampowered.com/app/250760"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "title": "Axiom Verge 2",
+    "platform": "Switch",
+    "metacritic_score": 76,
+    "imagen": "https://media.rawg.io/media/games/6dc/6dc4ec76604e76d9be069242be228a14.jpg",
+    "fecha_lanzamiento": "2021-08-11",
+    "rating": 3.79,
+    "hltb": {
+      "main_story": 8.59,
+      "main_extra": 11.49,
+      "completionist": 15.51
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/946030"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "title": "Ori and the Blind Forest",
+    "platform": "Xbox",
+    "metacritic_score": 88,
+    "imagen": "https://media.rawg.io/media/games/f8c/f8c6a262ead4c16b47e1219310210eb3.jpg",
+    "fecha_lanzamiento": "2015-03-10",
+    "rating": 4.38,
+    "hltb": {
+      "main_story": 8.22,
+      "main_extra": 10.38,
+      "completionist": 11.77
+    },
+    "precios": [
+      {
+        "tienda": "Xbox Store",
+        "precio_actual": "$19.99",
+        "precio_original": "$19.99",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://www.xbox.com/games/ori-and-the-blind-forest"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "title": "A Short Hike",
+    "platform": "Switch",
+    "metacritic_score": 84,
+    "imagen": "https://media.rawg.io/media/games/c38/c38deeb8f331a78c89e64ad71a1db361.jpg",
+    "fecha_lanzamiento": "2019-07-29",
+    "rating": 4.35,
+    "hltb": {
+      "main_story": 1.52,
+      "main_extra": 2.15,
+      "completionist": 4.65
+    },
+    "precios": [
+      {
+        "tienda": "Steam",
+        "precio_actual": "$7.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
+        "url": "https://store.steampowered.com/app/1055540"
+      }
+    ]
+  }
+]
