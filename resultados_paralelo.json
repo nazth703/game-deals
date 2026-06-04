@@ -12,17 +12,7 @@
       "main_story": 10.02,
       "main_extra": 13.67,
       "completionist": 20.18
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Super%20Mario%20Bros%20Wonder"
-      }
-    ]
+    }
   },
   {
     "id": 2,
@@ -37,17 +27,7 @@
       "main_story": 50.34,
       "main_extra": 98.4,
       "completionist": 193.59
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild"
-      }
-    ]
+    }
   },
   {
     "id": 3,
@@ -62,17 +42,7 @@
       "main_story": 6.24,
       "main_extra": 22.7,
       "completionist": 53.77
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Mario%20Kart%208%20Deluxe"
-      }
-    ]
+    }
   },
   {
     "id": 4,
@@ -87,17 +57,7 @@
       "main_story": 20.56,
       "main_extra": 32.91,
       "completionist": 51.11
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$49.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1593500"
-      }
-    ]
+    }
   },
   {
     "id": 5,
@@ -112,17 +72,7 @@
       "main_story": 26.54,
       "main_extra": 40.65,
       "completionist": 55.56
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2322010"
-      }
-    ]
+    }
   },
   {
     "id": 6,
@@ -137,17 +87,7 @@
       "main_story": 14.32,
       "main_extra": 17.94,
       "completionist": 24.51
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1888930"
-      }
-    ]
+    }
   },
   {
     "id": 7,
@@ -162,17 +102,7 @@
       "main_story": 24.1,
       "main_extra": 29.5,
       "completionist": 43.39
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$49.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2531310"
-      }
-    ]
+    }
   },
   {
     "id": 8,
@@ -187,17 +117,7 @@
       "main_story": 7.78,
       "main_extra": 12.52,
       "completionist": 18.53
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$49.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1817190"
-      }
-    ]
+    }
   },
   {
     "id": 9,
@@ -212,17 +132,7 @@
       "main_story": 22.5,
       "main_extra": 44.05,
       "completionist": 61.13
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$49.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2561580"
-      }
-    ]
+    }
   },
   {
     "id": 10,
@@ -237,17 +147,7 @@
       "main_story": 28.89,
       "main_extra": 62.71,
       "completionist": 89.7
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2420110"
-      }
-    ]
+    }
   },
   {
     "id": 11,
@@ -262,17 +162,7 @@
       "main_story": 50.7,
       "main_extra": 84.65,
       "completionist": 193.56
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1174180"
-      }
-    ]
+    }
   },
   {
     "id": 12,
@@ -287,17 +177,7 @@
       "main_story": 32.05,
       "main_extra": 51.47,
       "completionist": 88.62
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$14.99",
-        "precio_original": "$29.99",
-        "descuento": 50,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/3240220"
-      }
-    ]
+    }
   },
   {
     "id": 13,
@@ -312,17 +192,7 @@
       "main_story": 51.6,
       "main_extra": 103.73,
       "completionist": 174.44
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/292030"
-      }
-    ]
+    }
   },
   {
     "id": 14,
@@ -337,17 +207,7 @@
       "main_story": 25.99,
       "main_extra": 63.14,
       "completionist": 108.47
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1091500"
-      }
-    ]
+    }
   },
   {
     "id": 15,
@@ -362,17 +222,7 @@
       "main_story": 60.03,
       "main_extra": 101.2,
       "completionist": 135.68
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1245620"
-      }
-    ]
+    }
   },
   {
     "id": 16,
@@ -387,17 +237,7 @@
       "main_story": 31.23,
       "main_extra": 48.45,
       "completionist": 100.44
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/374320"
-      }
-    ]
+    }
   },
   {
     "id": 17,
@@ -412,17 +252,7 @@
       "main_story": 65.53,
       "main_extra": 139.73,
       "completionist": 286.61
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1672970"
-      }
-    ]
+    }
   },
   {
     "id": 18,
@@ -437,17 +267,7 @@
       "main_story": 12.89,
       "main_extra": 15.61,
       "completionist": 19.88
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$9.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/220"
-      }
-    ]
+    }
   },
   {
     "id": 19,
@@ -462,17 +282,7 @@
       "main_story": 8.53,
       "main_extra": 13.72,
       "completionist": 22.53
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$9.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/620"
-      }
-    ]
+    }
   },
   {
     "id": 20,
@@ -487,17 +297,7 @@
       "main_story": 147.82,
       "main_extra": 373.06,
       "completionist": 752.47
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "Free to Play",
-        "precio_original": "Free to Play",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/search/?term=Counter+Strike+2"
-      }
-    ]
+    }
   },
   {
     "id": 21,
@@ -512,17 +312,7 @@
       "main_story": 11.32,
       "main_extra": 19.47,
       "completionist": 29.12
-    },
-    "precios": [
-      {
-        "tienda": "Xbox Store",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.xbox.com/games/halo-infinite"
-      }
-    ]
+    }
   },
   {
     "id": 22,
@@ -537,17 +327,7 @@
       "main_story": 9.96,
       "main_extra": 11.61,
       "completionist": 15.14
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$9.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1064221"
-      }
-    ]
+    }
   },
   {
     "id": 23,
@@ -562,17 +342,7 @@
       "main_story": 21.15,
       "main_extra": 46.21,
       "completionist": 138.69
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1551360"
-      }
-    ]
+    }
   },
   {
     "id": 24,
@@ -587,17 +357,7 @@
       "main_story": 11.27,
       "main_extra": 15.68,
       "completionist": 19.3
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$14.99",
-        "precio_original": "$29.99",
-        "descuento": 50,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/1097840"
-      }
-    ]
+    }
   },
   {
     "id": 25,
@@ -612,17 +372,7 @@
       "main_story": 32.38,
       "main_extra": 41.16,
       "completionist": 85.91
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1462040"
-      }
-    ]
+    }
   },
   {
     "id": 26,
@@ -637,17 +387,7 @@
       "main_story": 38.22,
       "main_extra": 59.06,
       "completionist": 82.45
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$49.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2515020"
-      }
-    ]
+    }
   },
   {
     "id": 27,
@@ -662,17 +402,7 @@
       "main_story": 101.24,
       "main_extra": 122.86,
       "completionist": 140.37
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1687950"
-      }
-    ]
+    }
   },
   {
     "id": 28,
@@ -687,17 +417,7 @@
       "main_story": 67.11,
       "main_extra": 84.13,
       "completionist": 133.92
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1113000"
-      }
-    ]
+    }
   },
   {
     "id": 29,
@@ -712,17 +432,7 @@
       "main_story": 16.16,
       "main_extra": 21.56,
       "completionist": 64.57
-    },
-    "precios": [
-      {
-        "tienda": "PlayStation Store",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.playstation.com/search/Resident%20Evil%204%20Remake"
-      }
-    ]
+    }
   },
   {
     "id": 30,
@@ -737,17 +447,7 @@
       "main_story": 9.86,
       "main_extra": 12.93,
       "completionist": 38.4
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$9.99",
-        "precio_original": "$39.99",
-        "descuento": 75,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/1196590"
-      }
-    ]
+    }
   },
   {
     "id": 31,
@@ -762,17 +462,7 @@
       "main_story": 11.14,
       "main_extra": 16.93,
       "completionist": 77.47
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$29.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/601150"
-      }
-    ]
+    }
   },
   {
     "id": 32,
@@ -787,17 +477,7 @@
       "main_story": 46.45,
       "main_extra": 115.35,
       "completionist": 430.54
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$7.79",
-        "precio_original": "$29.99",
-        "descuento": 74,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/582010"
-      }
-    ]
+    }
   },
   {
     "id": 33,
@@ -812,17 +492,7 @@
       "main_story": 23.23,
       "main_extra": 82.55,
       "completionist": 181.61
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$7.99",
-        "precio_original": "$39.99",
-        "descuento": 80,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/1446780"
-      }
-    ]
+    }
   },
   {
     "id": 34,
@@ -837,17 +507,7 @@
       "main_story": 8.49,
       "main_extra": 14.14,
       "completionist": 18.21
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Splatoon%203"
-      }
-    ]
+    }
   },
   {
     "id": 35,
@@ -862,17 +522,7 @@
       "main_story": 60.95,
       "main_extra": 153.02,
       "completionist": 417.25
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Animal%20Crossing%20New%20Horizons"
-      }
-    ]
+    }
   },
   {
     "id": 36,
@@ -887,17 +537,7 @@
       "main_story": 32.12,
       "main_extra": 51.65,
       "completionist": 91.1
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Pokemon%20Scarlet"
-      }
-    ]
+    }
   },
   {
     "id": 37,
@@ -912,17 +552,7 @@
       "main_story": 26.04,
       "main_extra": 50.58,
       "completionist": 117.0
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Pokemon%20Violet"
-      }
-    ]
+    }
   },
   {
     "id": 38,
@@ -937,17 +567,7 @@
       "main_story": 10.33,
       "main_extra": 15.43,
       "completionist": 25.95
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Kirby%20Forgotten%20Land"
-      }
-    ]
+    }
   },
   {
     "id": 39,
@@ -962,17 +582,7 @@
       "main_story": 9.28,
       "main_extra": 11.6,
       "completionist": 13.75
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Metroid%20Dread"
-      }
-    ]
+    }
   },
   {
     "id": 40,
@@ -987,17 +597,7 @@
       "main_story": 13.06,
       "main_extra": 18.74,
       "completionist": 47.54
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Bayonetta%203"
-      }
-    ]
+    }
   },
   {
     "id": 41,
@@ -1012,17 +612,7 @@
       "main_story": 8.31,
       "main_extra": 14.66,
       "completionist": 39.19
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$4.99",
-        "precio_original": "$19.99",
-        "descuento": 75,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/504230"
-      }
-    ]
+    }
   },
   {
     "id": 42,
@@ -1037,17 +627,7 @@
       "main_story": 26.95,
       "main_extra": 41.61,
       "completionist": 65.21
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$14.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/367520"
-      }
-    ]
+    }
   },
   {
     "id": 43,
@@ -1062,17 +642,7 @@
       "main_story": 53.36,
       "main_extra": 94.65,
       "completionist": 172.22
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$14.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/413150"
-      }
-    ]
+    }
   },
   {
     "id": 44,
@@ -1087,17 +657,7 @@
       "main_story": 7.02,
       "main_extra": 11.31,
       "completionist": 20.64
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$9.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/391540"
-      }
-    ]
+    }
   },
   {
     "id": 45,
@@ -1112,17 +672,7 @@
       "main_story": 23.7,
       "main_extra": 33.14,
       "completionist": 48.24
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$9.99",
-        "precio_original": "$39.99",
-        "descuento": 75,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/632470"
-      }
-    ]
+    }
   },
   {
     "id": 46,
@@ -1137,17 +687,7 @@
       "main_story": 23.36,
       "main_extra": 48.49,
       "completionist": 95.19
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$29.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1145350"
-      }
-    ]
+    }
   },
   {
     "id": 47,
@@ -1162,17 +702,7 @@
       "main_story": 14.06,
       "main_extra": 32.0,
       "completionist": 91.39
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$24.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/588650"
-      }
-    ]
+    }
   },
   {
     "id": 48,
@@ -1187,17 +717,7 @@
       "main_story": 10.58,
       "main_extra": 16.08,
       "completionist": 28.15
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/268910"
-      }
-    ]
+    }
   },
   {
     "id": 49,
@@ -1212,17 +732,7 @@
       "main_story": 11.99,
       "main_extra": 15.67,
       "completionist": 18.27
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$29.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1057090"
-      }
-    ]
+    }
   },
   {
     "id": 50,
@@ -1237,17 +747,7 @@
       "main_story": 44.32,
       "main_extra": 184.52,
       "completionist": 724.82
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1172620"
-      }
-    ]
+    }
   },
   {
     "id": 51,
@@ -1262,17 +762,7 @@
       "main_story": 15.09,
       "main_extra": 18.0,
       "completionist": 31.39
-    },
-    "precios": [
-      {
-        "tienda": "PlayStation Store",
-        "precio_actual": "$19.99",
-        "precio_original": "$19.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.playstation.com/search/Uncharted%204"
-      }
-    ]
+    }
   },
   {
     "id": 52,
@@ -1287,17 +777,7 @@
       "main_story": 25.11,
       "main_extra": 46.25,
       "completionist": 62.42
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2215430"
-      }
-    ]
+    }
   },
   {
     "id": 53,
@@ -1312,17 +792,7 @@
       "main_story": 32.45,
       "main_extra": 43.47,
       "completionist": 75.46
-    },
-    "precios": [
-      {
-        "tienda": "PlayStation Store",
-        "precio_actual": "$19.99",
-        "precio_original": "$19.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.playstation.com/search/Bloodborne"
-      }
-    ]
+    }
   },
   {
     "id": 54,
@@ -1337,17 +807,7 @@
       "main_story": 40.51,
       "main_extra": 60.07,
       "completionist": 112.94
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$69.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/3280350"
-      }
-    ]
+    }
   },
   {
     "id": 55,
@@ -1362,17 +822,7 @@
       "main_story": 12.08,
       "main_extra": 15.73,
       "completionist": 32.15
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1222140"
-      }
-    ]
+    }
   },
   {
     "id": 56,
@@ -1387,17 +837,7 @@
       "main_story": 11.71,
       "main_extra": 19.2,
       "completionist": 28.88
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$99.00",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/4165870"
-      }
-    ]
+    }
   },
   {
     "id": 57,
@@ -1412,17 +852,7 @@
       "main_story": 30.24,
       "main_extra": 42.89,
       "completionist": 69.65
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/814380"
-      }
-    ]
+    }
   },
   {
     "id": 58,
@@ -1437,17 +867,7 @@
       "main_story": 44.82,
       "main_extra": 72.97,
       "completionist": 104.97
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "$49.99",
-        "descuento": 60,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/1325200"
-      }
-    ]
+    }
   },
   {
     "id": 59,
@@ -1462,17 +882,7 @@
       "main_story": 14.4,
       "main_extra": 20.61,
       "completionist": 29.5
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/782330"
-      }
-    ]
+    }
   },
   {
     "id": 60,
@@ -1487,17 +897,7 @@
       "main_story": 10.75,
       "main_extra": 17.09,
       "completionist": 33.59
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/612880"
-      }
-    ]
+    }
   },
   {
     "id": 61,
@@ -1512,17 +912,7 @@
       "main_story": 42.73,
       "main_extra": 127.45,
       "completionist": 879.75
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "Free to Play",
-        "precio_original": "Free to Play",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/search/?term=Overwatch+2"
-      }
-    ]
+    }
   },
   {
     "id": 62,
@@ -1537,17 +927,7 @@
       "main_story": 32.6,
       "main_extra": 85.11,
       "completionist": 146.34
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "Free to Play",
-        "precio_original": "Free to Play",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/search/?term=Apex+Legends"
-      }
-    ]
+    }
   },
   {
     "id": 63,
@@ -1562,17 +942,7 @@
       "main_story": 61.83,
       "main_extra": 148.52,
       "completionist": 491.39
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "Free to Play",
-        "precio_original": "Free to Play",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/search/?term=Fortnite"
-      }
-    ]
+    }
   },
   {
     "id": 64,
@@ -1587,17 +957,7 @@
       "main_story": 106.42,
       "main_extra": 474.07,
       "completionist": 560.11
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "Free to Play",
-        "precio_original": "Free to Play",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/search/?term=Valorant"
-      }
-    ]
+    }
   },
   {
     "id": 65,
@@ -1612,17 +972,7 @@
       "main_story": 1174.31,
       "main_extra": 1751.0,
       "completionist": 3306.99
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$29.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1276800"
-      }
-    ]
+    }
   },
   {
     "id": 66,
@@ -1637,17 +987,7 @@
       "main_story": 746.81,
       "main_extra": 1140.45,
       "completionist": 2332.72
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "Free to Play",
-        "precio_original": "Free to Play",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/search/?term=Dota+2"
-      }
-    ]
+    }
   },
   {
     "id": 67,
@@ -1662,17 +1002,7 @@
       "main_story": 285.25,
       "main_extra": 591.35,
       "completionist": 2346.99
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "Free to Play",
-        "precio_original": "Free to Play",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/search/?term=Team+Fortress+2"
-      }
-    ]
+    }
   },
   {
     "id": 68,
@@ -1687,17 +1017,7 @@
       "main_story": 10.2,
       "main_extra": 27.79,
       "completionist": 61.36
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$9.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/550"
-      }
-    ]
+    }
   },
   {
     "id": 69,
@@ -1712,17 +1032,7 @@
       "main_story": 51.79,
       "main_extra": 92.08,
       "completionist": 205.13
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$9.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/105600"
-      }
-    ]
+    }
   },
   {
     "id": 70,
@@ -1737,17 +1047,7 @@
       "main_story": 8.89,
       "main_extra": 16.14,
       "completionist": 28.54
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$2.99",
-        "precio_original": "$4.99",
-        "descuento": 40,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/945360"
-      }
-    ]
+    }
   },
   {
     "id": 71,
@@ -1762,17 +1062,7 @@
       "main_story": 9.91,
       "main_extra": 31.38,
       "completionist": 98.39
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "Free to Play",
-        "precio_original": "Free to Play",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/search/?term=Fall+Guys"
-      }
-    ]
+    }
   },
   {
     "id": 72,
@@ -1787,17 +1077,7 @@
       "main_story": 4.66,
       "main_extra": 26.62,
       "completionist": 104.24
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "Free to Play",
-        "precio_original": "Free to Play",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/search/?term=Rocket+League"
-      }
-    ]
+    }
   },
   {
     "id": 73,
@@ -1812,17 +1092,7 @@
       "main_story": 96.04,
       "main_extra": 99.97,
       "completionist": 189.22
-    },
-    "precios": [
-      {
-        "tienda": "PlayStation Store",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.playstation.com/search/FIFA%2023"
-      }
-    ]
+    }
   },
   {
     "id": 74,
@@ -1837,17 +1107,7 @@
       "main_story": 22.11,
       "main_extra": 82.3,
       "completionist": 259.47
-    },
-    "precios": [
-      {
-        "tienda": "PlayStation Store",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.playstation.com/search/NBA%202K23"
-      }
-    ]
+    }
   },
   {
     "id": 75,
@@ -1862,17 +1122,7 @@
       "main_story": 22.68,
       "main_extra": 131.93,
       "completionist": 613.48
-    },
-    "precios": [
-      {
-        "tienda": "PlayStation Store",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.playstation.com/search/Madden%20NFL%2023"
-      }
-    ]
+    }
   },
   {
     "id": 76,
@@ -1887,17 +1137,7 @@
       "main_story": 39.0,
       "main_extra": 360.17,
       "completionist": 374.6
-    },
-    "precios": [
-      {
-        "tienda": "PlayStation Store",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.playstation.com/search/MLB%20The%20Show%2023"
-      }
-    ]
+    }
   },
   {
     "id": 77,
@@ -1912,17 +1152,7 @@
       "main_story": 25.26,
       "main_extra": 46.43,
       "completionist": 154.75
-    },
-    "precios": [
-      {
-        "tienda": "PlayStation Store",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.playstation.com/search/Gran%20Turismo%207"
-      }
-    ]
+    }
   },
   {
     "id": 78,
@@ -1937,17 +1167,7 @@
       "main_story": 36.44,
       "main_extra": 91.74,
       "completionist": 163.79
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$69.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2440510"
-      }
-    ]
+    }
   },
   {
     "id": 79,
@@ -1962,17 +1182,7 @@
       "main_story": 23.14,
       "main_extra": 30.66,
       "completionist": 51.03
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$69.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1846380"
-      }
-    ]
+    }
   },
   {
     "id": 80,
@@ -1987,17 +1197,7 @@
       "main_story": 16.43,
       "main_extra": 21.88,
       "completionist": 26.95
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1237320"
-      }
-    ]
+    }
   },
   {
     "id": 81,
@@ -2012,17 +1212,7 @@
       "main_story": 10.75,
       "main_extra": 13.91,
       "completionist": 16.26
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$29.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1794960"
-      }
-    ]
+    }
   },
   {
     "id": 82,
@@ -2037,17 +1227,7 @@
       "main_story": 0.0,
       "main_extra": 20.76,
       "completionist": 21.0
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1378990"
-      }
-    ]
+    }
   },
   {
     "id": 83,
@@ -2062,17 +1242,7 @@
       "main_story": 17.13,
       "main_extra": 26.35,
       "completionist": 33.99
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/996580"
-      }
-    ]
+    }
   },
   {
     "id": 84,
@@ -2087,17 +1257,7 @@
       "main_story": 11.02,
       "main_extra": 14.53,
       "completionist": 18.04
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1895880"
-      }
-    ]
+    }
   },
   {
     "id": 85,
@@ -2112,17 +1272,7 @@
       "main_story": 19.06,
       "main_extra": 30.67,
       "completionist": 63.88
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1649240"
-      }
-    ]
+    }
   },
   {
     "id": 86,
@@ -2137,17 +1287,7 @@
       "main_story": 24.02,
       "main_extra": 32.68,
       "completionist": 59.7
-    },
-    "precios": [
-      {
-        "tienda": "PlayStation Store",
-        "precio_actual": "$39.99",
-        "precio_original": "$39.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.playstation.com/search/Demon%20Souls%20Remake"
-      }
-    ]
+    }
   },
   {
     "id": 87,
@@ -2162,17 +1302,7 @@
       "main_story": 2.96,
       "main_extra": 4.0,
       "completionist": 5.18
-    },
-    "precios": [
-      {
-        "tienda": "PlayStation Store",
-        "precio_actual": "Free",
-        "precio_original": "Free",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.playstation.com/search/Astros%20Playroom"
-      }
-    ]
+    }
   },
   {
     "id": 88,
@@ -2187,17 +1317,7 @@
       "main_story": 10.94,
       "main_extra": 17.13,
       "completionist": 34.04
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1599660"
-      }
-    ]
+    }
   },
   {
     "id": 89,
@@ -2212,17 +1332,7 @@
       "main_story": 10.27,
       "main_extra": 14.43,
       "completionist": 20.68
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1954200"
-      }
-    ]
+    }
   },
   {
     "id": 90,
@@ -2237,17 +1347,7 @@
       "main_story": 11.36,
       "main_extra": 22.82,
       "completionist": 42.11
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1475810"
-      }
-    ]
+    }
   },
   {
     "id": 91,
@@ -2262,17 +1362,7 @@
       "main_story": 16.38,
       "main_extra": 24.47,
       "completionist": 35.9
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1252330"
-      }
-    ]
+    }
   },
   {
     "id": 92,
@@ -2287,17 +1377,7 @@
       "main_story": 16.36,
       "main_extra": 35.87,
       "completionist": 62.64
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$7.99",
-        "precio_original": "$19.99",
-        "descuento": 60,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/680420"
-      }
-    ]
+    }
   },
   {
     "id": 93,
@@ -2312,17 +1392,7 @@
       "main_story": 12.87,
       "main_extra": 24.42,
       "completionist": 42.42
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/597820"
-      }
-    ]
+    }
   },
   {
     "id": 94,
@@ -2337,17 +1407,7 @@
       "main_story": 25.18,
       "main_extra": 35.68,
       "completionist": 60.69
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "$99.99",
-        "descuento": 80,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/775500"
-      }
-    ]
+    }
   },
   {
     "id": 95,
@@ -2362,17 +1422,7 @@
       "main_story": 41.11,
       "main_extra": 56.53,
       "completionist": 73.93
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$49.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/740130"
-      }
-    ]
+    }
   },
   {
     "id": 96,
@@ -2387,17 +1437,7 @@
       "main_story": 0.0,
       "main_extra": 0.0,
       "completionist": 0.0
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1295510"
-      }
-    ]
+    }
   },
   {
     "id": 97,
@@ -2412,17 +1452,7 @@
       "main_story": 38.69,
       "main_extra": 56.59,
       "completionist": 93.29
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/589360"
-      }
-    ]
+    }
   },
   {
     "id": 98,
@@ -2437,17 +1467,7 @@
       "main_story": 46.09,
       "main_extra": 68.0,
       "completionist": 102.94
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1235140"
-      }
-    ]
+    }
   },
   {
     "id": 99,
@@ -2462,17 +1482,7 @@
       "main_story": 27.69,
       "main_extra": 46.2,
       "completionist": 99.53
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2058190"
-      }
-    ]
+    }
   },
   {
     "id": 100,
@@ -2487,17 +1497,7 @@
       "main_story": 24.26,
       "main_extra": 53.41,
       "completionist": 107.66
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2058190"
-      }
-    ]
+    }
   },
   {
     "id": 101,
@@ -2512,17 +1512,7 @@
       "main_story": 72.94,
       "main_extra": 116.18,
       "completionist": 180.6
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1086940"
-      }
-    ]
+    }
   },
   {
     "id": 102,
@@ -2537,17 +1527,7 @@
       "main_story": 59.27,
       "main_extra": 101.32,
       "completionist": 157.79
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$44.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/435150"
-      }
-    ]
+    }
   },
   {
     "id": 103,
@@ -2562,17 +1542,7 @@
       "main_story": 56.73,
       "main_extra": 137.25,
       "completionist": 258.54
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1184370"
-      }
-    ]
+    }
   },
   {
     "id": 104,
@@ -2587,17 +1557,7 @@
       "main_story": 41.87,
       "main_extra": 65.98,
       "completionist": 98.22
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/560130"
-      }
-    ]
+    }
   },
   {
     "id": 105,
@@ -2612,17 +1572,7 @@
       "main_story": 35.82,
       "main_extra": 49.61,
       "completionist": 75.29
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/719040"
-      }
-    ]
+    }
   },
   {
     "id": 106,
@@ -2637,17 +1587,7 @@
       "main_story": 17.27,
       "main_extra": 22.28,
       "completionist": 31.82
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1172380"
-      }
-    ]
+    }
   },
   {
     "id": 107,
@@ -2662,17 +1602,7 @@
       "main_story": 20.45,
       "main_extra": 33.81,
       "completionist": 55.38
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$69.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1774580"
-      }
-    ]
+    }
   },
   {
     "id": 108,
@@ -2687,17 +1617,7 @@
       "main_story": 61.08,
       "main_extra": 101.52,
       "completionist": 138.29
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1328670"
-      }
-    ]
+    }
   },
   {
     "id": 109,
@@ -2712,17 +1632,7 @@
       "main_story": 46.63,
       "main_extra": 87.36,
       "completionist": 129.2
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1222690"
-      }
-    ]
+    }
   },
   {
     "id": 110,
@@ -2737,17 +1647,7 @@
       "main_story": 61.16,
       "main_extra": 99.0,
       "completionist": 151.68
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2208920"
-      }
-    ]
+    }
   },
   {
     "id": 111,
@@ -2762,17 +1662,7 @@
       "main_story": 45.61,
       "main_extra": 85.42,
       "completionist": 145.48
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/812140"
-      }
-    ]
+    }
   },
   {
     "id": 112,
@@ -2787,17 +1677,7 @@
       "main_story": 30.16,
       "main_extra": 52.55,
       "completionist": 85.42
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/582160"
-      }
-    ]
+    }
   },
   {
     "id": 113,
@@ -2812,17 +1692,7 @@
       "main_story": 18.16,
       "main_extra": 33.04,
       "completionist": 50.15
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2239550"
-      }
-    ]
+    }
   },
   {
     "id": 114,
@@ -2837,17 +1707,7 @@
       "main_story": 24.71,
       "main_extra": 41.66,
       "completionist": 65.14
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2369390"
-      }
-    ]
+    }
   },
   {
     "id": 115,
@@ -2862,17 +1722,7 @@
       "main_story": 3.31,
       "main_extra": 26.39,
       "completionist": 169.08
-    },
-    "precios": [
-      {
-        "tienda": "Ubisoft Store",
-        "precio_actual": "$19.99",
-        "precio_original": "$19.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.ubisoft.com/rainbow-six-siege"
-      }
-    ]
+    }
   },
   {
     "id": 116,
@@ -2887,17 +1737,7 @@
       "main_story": 7.04,
       "main_extra": 10.99,
       "completionist": 18.25
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$4.49",
-        "precio_original": "$29.99",
-        "descuento": 85,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/304390"
-      }
-    ]
+    }
   },
   {
     "id": 117,
@@ -2912,17 +1752,7 @@
       "main_story": 26.0,
       "main_extra": 48.17,
       "completionist": 99.21
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$7.49",
-        "precio_original": "$29.99",
-        "descuento": 75,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/2221490"
-      }
-    ]
+    }
   },
   {
     "id": 118,
@@ -2937,17 +1767,7 @@
       "main_story": 23.32,
       "main_extra": 54.32,
       "completionist": 100.17
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2231380"
-      }
-    ]
+    }
   },
   {
     "id": 119,
@@ -2962,17 +1782,7 @@
       "main_story": 25.43,
       "main_extra": 41.28,
       "completionist": 62.11
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2221920"
-      }
-    ]
+    }
   },
   {
     "id": 120,
@@ -2987,17 +1797,7 @@
       "main_story": 16.68,
       "main_extra": 24.51,
       "completionist": 31.22
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$29.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2751000"
-      }
-    ]
+    }
   },
   {
     "id": 121,
@@ -3012,17 +1812,7 @@
       "main_story": 17.03,
       "main_extra": 31.47,
       "completionist": 51.19
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/208650"
-      }
-    ]
+    }
   },
   {
     "id": 122,
@@ -3037,17 +1827,7 @@
       "main_story": 12.44,
       "main_extra": 21.55,
       "completionist": 45.88
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/200260"
-      }
-    ]
+    }
   },
   {
     "id": 123,
@@ -3062,17 +1842,7 @@
       "main_story": 6.31,
       "main_extra": 18.24,
       "completionist": 62.12
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$49.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/976310"
-      }
-    ]
+    }
   },
   {
     "id": 124,
@@ -3087,17 +1857,7 @@
       "main_story": 5.69,
       "main_extra": 15.7,
       "completionist": 53.21
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$49.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/627270"
-      }
-    ]
+    }
   },
   {
     "id": 125,
@@ -3112,17 +1872,7 @@
       "main_story": 17.3,
       "main_extra": 34.0,
       "completionist": 73.24
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "$39.99",
-        "descuento": 50,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/1364780"
-      }
-    ]
+    }
   },
   {
     "id": 126,
@@ -3137,17 +1887,7 @@
       "main_story": 4.17,
       "main_extra": 10.91,
       "completionist": 17.05
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$23.99",
-        "precio_original": "$39.99",
-        "descuento": 40,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/1778820"
-      }
-    ]
+    }
   },
   {
     "id": 127,
@@ -3162,17 +1902,7 @@
       "main_story": 11.97,
       "main_extra": 22.01,
       "completionist": 51.07
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$9.59",
-        "precio_original": "$59.99",
-        "descuento": 84,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/678950"
-      }
-    ]
+    }
   },
   {
     "id": 128,
@@ -3187,17 +1917,7 @@
       "main_story": 4.97,
       "main_extra": 26.35,
       "completionist": 59.53
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1384160"
-      }
-    ]
+    }
   },
   {
     "id": 129,
@@ -3212,17 +1932,7 @@
       "main_story": 6.94,
       "main_extra": 19.31,
       "completionist": 38.72
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/544750"
-      }
-    ]
+    }
   },
   {
     "id": 130,
@@ -3237,17 +1947,7 @@
       "main_story": 1.06,
       "main_extra": 5.11,
       "completionist": 9.07
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$9.99",
-        "precio_original": "$49.99",
-        "descuento": 80,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/2017080"
-      }
-    ]
+    }
   },
   {
     "id": 131,
@@ -3262,17 +1962,7 @@
       "main_story": 25.8,
       "main_extra": 48.87,
       "completionist": 190.46
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$49.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2344520"
-      }
-    ]
+    }
   },
   {
     "id": 132,
@@ -3287,17 +1977,7 @@
       "main_story": 18.16,
       "main_extra": 45.04,
       "completionist": 171.12
-    },
-    "precios": [
-      {
-        "tienda": "Battle.net",
-        "precio_actual": "$19.99",
-        "precio_original": "$19.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://us.battle.net/shop/product/diablo-iii"
-      }
-    ]
+    }
   },
   {
     "id": 133,
@@ -3312,17 +1992,7 @@
       "main_story": 29.94,
       "main_extra": 107.82,
       "completionist": 790.88
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$14.99",
-        "precio_original": "$29.99",
-        "descuento": 50,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/2694490"
-      }
-    ]
+    }
   },
   {
     "id": 134,
@@ -3337,17 +2007,7 @@
       "main_story": 15.7,
       "main_extra": 23.55,
       "completionist": 40.12
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$5.99",
-        "precio_original": "$39.99",
-        "descuento": 85,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/1030210"
-      }
-    ]
+    }
   },
   {
     "id": 135,
@@ -3362,17 +2022,7 @@
       "main_story": 21.56,
       "main_extra": 48.16,
       "completionist": 244.34
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$24.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/219990"
-      }
-    ]
+    }
   },
   {
     "id": 136,
@@ -3387,17 +2037,7 @@
       "main_story": 23.9,
       "main_extra": 74.65,
       "completionist": 149.59
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$49.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1716740"
-      }
-    ]
+    }
   },
   {
     "id": 137,
@@ -3412,17 +2052,7 @@
       "main_story": 47.9,
       "main_extra": 207.44,
       "completionist": 606.92
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/306130"
-      }
-    ]
+    }
   },
   {
     "id": 138,
@@ -3437,17 +2067,7 @@
       "main_story": 36.28,
       "main_extra": 116.49,
       "completionist": 315.36
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1151340"
-      }
-    ]
+    }
   },
   {
     "id": 139,
@@ -3462,17 +2082,7 @@
       "main_story": 27.81,
       "main_extra": 83.11,
       "completionist": 160.54
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/377160"
-      }
-    ]
+    }
   },
   {
     "id": 140,
@@ -3487,17 +2097,7 @@
       "main_story": 16.36,
       "main_extra": 27.93,
       "completionist": 46.3
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$29.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/480490"
-      }
-    ]
+    }
   },
   {
     "id": 141,
@@ -3512,17 +2112,7 @@
       "main_story": 12.51,
       "main_extra": 22.74,
       "completionist": 46.23
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$29.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/403640"
-      }
-    ]
+    }
   },
   {
     "id": 142,
@@ -3537,17 +2127,7 @@
       "main_story": 16.38,
       "main_extra": 24.47,
       "completionist": 35.9
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1252330"
-      }
-    ]
+    }
   },
   {
     "id": 143,
@@ -3562,17 +2142,7 @@
       "main_story": 7.42,
       "main_extra": 8.0,
       "completionist": 22.65
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$7.99",
-        "precio_original": "$19.99",
-        "descuento": 60,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/2383990"
-      }
-    ]
+    }
   },
   {
     "id": 144,
@@ -3587,17 +2157,7 @@
       "main_story": 12.03,
       "main_extra": 23.26,
       "completionist": 97.55
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/924970"
-      }
-    ]
+    }
   },
   {
     "id": 145,
@@ -3612,17 +2172,7 @@
       "main_story": 24.34,
       "main_extra": 49.35,
       "completionist": 102.45
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/534380"
-      }
-    ]
+    }
   },
   {
     "id": 146,
@@ -3637,17 +2187,7 @@
       "main_story": 36.36,
       "main_extra": 50.61,
       "completionist": 65.61
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1259420"
-      }
-    ]
+    }
   },
   {
     "id": 147,
@@ -3662,17 +2202,7 @@
       "main_story": 8.02,
       "main_extra": 8.98,
       "completionist": 10.03
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$14.99",
-        "precio_original": "$49.99",
-        "descuento": 70,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/1293160"
-      }
-    ]
+    }
   },
   {
     "id": 148,
@@ -3687,17 +2217,7 @@
       "main_story": 19.09,
       "main_extra": 26.15,
       "completionist": 32.33
-    },
-    "precios": [
-      {
-        "tienda": "PlayStation Store",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.playstation.com/search/Alan%20Wake%202"
-      }
-    ]
+    }
   },
   {
     "id": 149,
@@ -3712,17 +2232,7 @@
       "main_story": 5.43,
       "main_extra": 7.41,
       "completionist": 13.67
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$7.49",
-        "precio_original": "$24.99",
-        "descuento": 70,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/1944430"
-      }
-    ]
+    }
   },
   {
     "id": 150,
@@ -3737,17 +2247,7 @@
       "main_story": 5.97,
       "main_extra": 7.64,
       "completionist": 20.32
-    },
-    "precios": [
-      {
-        "tienda": "PlayStation Store",
-        "precio_actual": "$39.99",
-        "precio_original": "$39.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.playstation.com/search/Resident%20Evil%203%20Remake"
-      }
-    ]
+    }
   },
   {
     "id": 151,
@@ -3762,17 +2262,7 @@
       "main_story": 5.65,
       "main_extra": 6.64,
       "completionist": 8.71
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$29.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/860510"
-      }
-    ]
+    }
   },
   {
     "id": 152,
@@ -3787,17 +2277,7 @@
       "main_story": 10.94,
       "main_extra": 12.58,
       "completionist": 15.93
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$7.99",
-        "precio_original": "$39.99",
-        "descuento": 80,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/752590"
-      }
-    ]
+    }
   },
   {
     "id": 153,
@@ -3812,17 +2292,7 @@
       "main_story": 17.0,
       "main_extra": 19.58,
       "completionist": 27.37
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$14.99",
-        "precio_original": "$49.99",
-        "descuento": 70,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/1182900"
-      }
-    ]
+    }
   },
   {
     "id": 154,
@@ -3837,17 +2307,7 @@
       "main_story": 7.53,
       "main_extra": 8.19,
       "completionist": 9.22
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$29.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/414340"
-      }
-    ]
+    }
   },
   {
     "id": 155,
@@ -3862,17 +2322,7 @@
       "main_story": 7.11,
       "main_extra": 8.07,
       "completionist": 9.33
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$49.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2461850"
-      }
-    ]
+    }
   },
   {
     "id": 156,
@@ -3887,17 +2337,7 @@
       "main_story": 12.8,
       "main_extra": 14.21,
       "completionist": 16.45
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1426210"
-      }
-    ]
+    }
   },
   {
     "id": 157,
@@ -3912,17 +2352,7 @@
       "main_story": "N/A",
       "main_extra": "N/A",
       "completionist": "N/A"
-    },
-    "precios": [
-      {
-        "tienda": "EA App",
-        "precio_actual": "$29.99",
-        "precio_original": "$29.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.ea.com/games/a-way-out"
-      }
-    ]
+    }
   },
   {
     "id": 158,
@@ -3937,17 +2367,7 @@
       "main_story": 7.09,
       "main_extra": 11.8,
       "completionist": 25.42
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$24.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/728880"
-      }
-    ]
+    }
   },
   {
     "id": 159,
@@ -3962,17 +2382,7 @@
       "main_story": 5.22,
       "main_extra": 9.74,
       "completionist": 18.82
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$24.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/996770"
-      }
-    ]
+    }
   },
   {
     "id": 160,
@@ -3987,17 +2397,7 @@
       "main_story": 5.62,
       "main_extra": 8.48,
       "completionist": 13.19
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$14.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/252110"
-      }
-    ]
+    }
   },
   {
     "id": 161,
@@ -4012,17 +2412,7 @@
       "main_story": 17.66,
       "main_extra": 28.71,
       "completionist": 39.72
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Pikmin%204"
-      }
-    ]
+    }
   },
   {
     "id": 162,
@@ -4037,17 +2427,7 @@
       "main_story": 41.13,
       "main_extra": 65.03,
       "completionist": 90.9
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Fire%20Emblem%20Engage"
-      }
-    ]
+    }
   },
   {
     "id": 163,
@@ -4062,17 +2442,7 @@
       "main_story": 49.26,
       "main_extra": 76.7,
       "completionist": 210.32
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Fire%20Emblem%20Three%20Houses"
-      }
-    ]
+    }
   },
   {
     "id": 164,
@@ -4087,17 +2457,7 @@
       "main_story": 62.22,
       "main_extra": 102.46,
       "completionist": 173.96
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Xenoblade%20Chronicles%203"
-      }
-    ]
+    }
   },
   {
     "id": 165,
@@ -4112,17 +2472,7 @@
       "main_story": 20.55,
       "main_extra": 28.15,
       "completionist": 81.17
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Astral%20Chain"
-      }
-    ]
+    }
   },
   {
     "id": 166,
@@ -4137,17 +2487,7 @@
       "main_story": 13.17,
       "main_extra": 16.91,
       "completionist": 22.0
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Luigi%20Mansion%203"
-      }
-    ]
+    }
   },
   {
     "id": 167,
@@ -4162,17 +2502,7 @@
       "main_story": 26.95,
       "main_extra": 32.51,
       "completionist": 44.0
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Paper%20Mario%20Origami%20King"
-      }
-    ]
+    }
   },
   {
     "id": 168,
@@ -4187,17 +2517,7 @@
       "main_story": 12.48,
       "main_extra": 26.87,
       "completionist": 61.96
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Super%20Mario%20Odyssey"
-      }
-    ]
+    }
   },
   {
     "id": 169,
@@ -4212,17 +2532,7 @@
       "main_story": 24.09,
       "main_extra": 42.97,
       "completionist": 76.46
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Super%20Smash%20Bros%20Ultimate"
-      }
-    ]
+    }
   },
   {
     "id": 170,
@@ -4237,17 +2547,7 @@
       "main_story": 10.4,
       "main_extra": 18.46,
       "completionist": 31.58
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Donkey%20Kong%20Country%20Tropical%20Freeze"
-      }
-    ]
+    }
   },
   {
     "id": 171,
@@ -4262,17 +2562,7 @@
       "main_story": 7.07,
       "main_extra": 11.43,
       "completionist": 19.55
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Captain%20Toad%20Treasure%20Tracker"
-      }
-    ]
+    }
   },
   {
     "id": 172,
@@ -4287,17 +2577,7 @@
       "main_story": 8.27,
       "main_extra": 16.48,
       "completionist": 35.57
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Yoshi%20Crafted%20World"
-      }
-    ]
+    }
   },
   {
     "id": 173,
@@ -4312,17 +2592,7 @@
       "main_story": 9.06,
       "main_extra": 16.31,
       "completionist": 28.29
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=New%20Super%20Mario%20Bros%20U%20Deluxe"
-      }
-    ]
+    }
   },
   {
     "id": 174,
@@ -4337,17 +2607,7 @@
       "main_story": 9.03,
       "main_extra": 21.82,
       "completionist": 67.85
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=Mario%20Party%20Superstars"
-      }
-    ]
+    }
   },
   {
     "id": 175,
@@ -4362,17 +2622,7 @@
       "main_story": 2.56,
       "main_extra": 4.77,
       "completionist": 30.66
-    },
-    "precios": [
-      {
-        "tienda": "Nintendo eShop",
-        "precio_actual": "$59.99",
-        "precio_original": "$59.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.nintendo.com/search/#q=WarioWare%20Get%20It%20Together"
-      }
-    ]
+    }
   },
   {
     "id": 176,
@@ -4387,17 +2637,7 @@
       "main_story": 10.5,
       "main_extra": 18.49,
       "completionist": 24.78
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$24.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1533420"
-      }
-    ]
+    }
   },
   {
     "id": 177,
@@ -4412,17 +2652,7 @@
       "main_story": 12.3,
       "main_extra": 16.69,
       "completionist": 21.72
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$29.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/553420"
-      }
-    ]
+    }
   },
   {
     "id": 178,
@@ -4437,17 +2667,7 @@
       "main_story": 4.25,
       "main_extra": 5.63,
       "completionist": 7.49
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$24.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1097200"
-      }
-    ]
+    }
   },
   {
     "id": 179,
@@ -4462,17 +2682,7 @@
       "main_story": 6.03,
       "main_extra": 8.51,
       "completionist": 10.55
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$6.24",
-        "precio_original": "$24.99",
-        "descuento": 75,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/874260"
-      }
-    ]
+    }
   },
   {
     "id": 180,
@@ -4487,17 +2697,7 @@
       "main_story": 17.09,
       "main_extra": 22.7,
       "completionist": 28.96
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$12.49",
-        "precio_original": "$24.99",
-        "descuento": 50,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/753640"
-      }
-    ]
+    }
   },
   {
     "id": 181,
@@ -4512,17 +2712,7 @@
       "main_story": 8.2,
       "main_extra": 9.47,
       "completionist": 10.5
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$11.99",
-        "precio_original": "$19.99",
-        "descuento": 40,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/653530"
-      }
-    ]
+    }
   },
   {
     "id": 182,
@@ -4537,17 +2727,7 @@
       "main_story": 8.2,
       "main_extra": 9.47,
       "completionist": 10.5
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$11.99",
-        "precio_original": "$19.99",
-        "descuento": 40,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/653530"
-      }
-    ]
+    }
   },
   {
     "id": 183,
@@ -4562,17 +2742,7 @@
       "main_story": 2.12,
       "main_extra": 2.54,
       "completionist": 2.88
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/501300"
-      }
-    ]
+    }
   },
   {
     "id": 184,
@@ -4587,17 +2757,7 @@
       "main_story": 4.07,
       "main_extra": 4.67,
       "completionist": 5.16
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/383870"
-      }
-    ]
+    }
   },
   {
     "id": 185,
@@ -4612,17 +2772,7 @@
       "main_story": 4.45,
       "main_extra": 5.67,
       "completionist": 13.18
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1574310"
-      }
-    ]
+    }
   },
   {
     "id": 186,
@@ -4637,17 +2787,7 @@
       "main_story": 8.88,
       "main_extra": 12.26,
       "completionist": 24.73
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/481510"
-      }
-    ]
+    }
   },
   {
     "id": 187,
@@ -4662,17 +2802,7 @@
       "main_story": 25.48,
       "main_extra": 33.05,
       "completionist": 42.42
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$29.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/972660"
-      }
-    ]
+    }
   },
   {
     "id": 188,
@@ -4687,17 +2817,7 @@
       "main_story": 9.21,
       "main_extra": 12.83,
       "completionist": 20.61
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1123450"
-      }
-    ]
+    }
   },
   {
     "id": 189,
@@ -4712,17 +2832,7 @@
       "main_story": 7.47,
       "main_extra": 14.19,
       "completionist": 20.78
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$6.24",
-        "precio_original": "$24.99",
-        "descuento": 75,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/757310"
-      }
-    ]
+    }
   },
   {
     "id": 190,
@@ -4737,17 +2847,7 @@
       "main_story": 20.21,
       "main_extra": 24.98,
       "completionist": 33.39
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$12.49",
-        "precio_original": "$24.99",
-        "descuento": 50,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/977880"
-      }
-    ]
+    }
   },
   {
     "id": 191,
@@ -4762,17 +2862,7 @@
       "main_story": 0.0,
       "main_extra": 0.0,
       "completionist": 0.0
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1150690"
-      }
-    ]
+    }
   },
   {
     "id": 192,
@@ -4787,17 +2877,7 @@
       "main_story": 16.7,
       "main_extra": 23.91,
       "completionist": 41.59
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$24.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1671210"
-      }
-    ]
+    }
   },
   {
     "id": 193,
@@ -4812,17 +2892,7 @@
       "main_story": 35.75,
       "main_extra": 54.73,
       "completionist": 79.33
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$4.99",
-        "precio_original": "$19.99",
-        "descuento": 75,
-        "en_oferta": true,
-        "url": "https://store.steampowered.com/app/368340"
-      }
-    ]
+    }
   },
   {
     "id": 194,
@@ -4837,17 +2907,7 @@
       "main_story": 14.0,
       "main_extra": 19.96,
       "completionist": 31.13
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$29.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2114740"
-      }
-    ]
+    }
   },
   {
     "id": 195,
@@ -4862,17 +2922,7 @@
       "main_story": 16.46,
       "main_extra": 21.52,
       "completionist": 32.11
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$17.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/283640"
-      }
-    ]
+    }
   },
   {
     "id": 196,
@@ -4887,17 +2937,7 @@
       "main_story": 28.19,
       "main_extra": 46.69,
       "completionist": 64.67
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1030300"
-      }
-    ]
+    }
   },
   {
     "id": 197,
@@ -4912,17 +2952,7 @@
       "main_story": 6.66,
       "main_extra": 9.51,
       "completionist": 18.48
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/250760"
-      }
-    ]
+    }
   },
   {
     "id": 198,
@@ -4937,17 +2967,7 @@
       "main_story": 8.59,
       "main_extra": 11.49,
       "completionist": 15.51
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/946030"
-      }
-    ]
+    }
   },
   {
     "id": 199,
@@ -4962,17 +2982,7 @@
       "main_story": 8.23,
       "main_extra": 10.38,
       "completionist": 11.77
-    },
-    "precios": [
-      {
-        "tienda": "Xbox Store",
-        "precio_actual": "$19.99",
-        "precio_original": "$19.99",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://www.xbox.com/games/ori-and-the-blind-forest"
-      }
-    ]
+    }
   },
   {
     "id": 200,
@@ -4987,16 +2997,6 @@
       "main_story": 1.52,
       "main_extra": 2.15,
       "completionist": 4.65
-    },
-    "precios": [
-      {
-        "tienda": "Steam",
-        "precio_actual": "$7.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1055540"
-      }
-    ]
+    }
   }
 ]
