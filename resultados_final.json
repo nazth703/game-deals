@@ -416,11 +416,11 @@
     "precios": [
       {
         "tienda": "Steam",
-        "precio_actual": "$19.99",
+        "precio_actual": "$29.99",
         "precio_original": "",
         "descuento": 0,
         "en_oferta": false,
-        "url": "https://store.steampowered.com/app/1672970"
+        "url": "https://store.steampowered.com/app/1912410"
       }
     ]
   },
@@ -566,10 +566,10 @@
     "precios": [
       {
         "tienda": "Steam",
-        "precio_actual": "$59.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
+        "precio_actual": "$29.99",
+        "precio_original": "$59.99",
+        "descuento": 50,
+        "en_oferta": true,
         "url": "https://store.steampowered.com/app/1551360"
       }
     ]
@@ -591,10 +591,10 @@
     "precios": [
       {
         "tienda": "Steam",
-        "precio_actual": "$14.99",
-        "precio_original": "$29.99",
-        "descuento": 50,
-        "en_oferta": true,
+        "precio_actual": "$29.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
         "url": "https://store.steampowered.com/app/1097840"
       }
     ]
@@ -1116,10 +1116,10 @@
     "precios": [
       {
         "tienda": "Steam",
-        "precio_actual": "$9.99",
-        "precio_original": "$39.99",
-        "descuento": 75,
-        "en_oferta": true,
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
         "url": "https://store.steampowered.com/app/632470"
       }
     ]
@@ -1191,10 +1191,10 @@
     "precios": [
       {
         "tienda": "Steam",
-        "precio_actual": "$19.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
+        "precio_actual": "$11.99",
+        "precio_original": "$19.99",
+        "descuento": 40,
+        "en_oferta": true,
         "url": "https://store.steampowered.com/app/268910"
       }
     ]
@@ -1216,10 +1216,10 @@
     "precios": [
       {
         "tienda": "Steam",
-        "precio_actual": "$29.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
+        "precio_actual": "$7.49",
+        "precio_original": "$29.99",
+        "descuento": 75,
+        "en_oferta": true,
         "url": "https://store.steampowered.com/app/1057090"
       }
     ]
@@ -1241,10 +1241,10 @@
     "precios": [
       {
         "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
+        "precio_actual": "$13.99",
+        "precio_original": "$39.99",
+        "descuento": 65,
+        "en_oferta": true,
         "url": "https://store.steampowered.com/app/1172620"
       }
     ]
@@ -1941,10 +1941,10 @@
     "precios": [
       {
         "tienda": "Steam",
-        "precio_actual": "$69.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
+        "precio_actual": "$34.99",
+        "precio_original": "$69.99",
+        "descuento": 50,
+        "en_oferta": true,
         "url": "https://store.steampowered.com/app/2440510"
       }
     ]
@@ -2591,10 +2591,10 @@
     "precios": [
       {
         "tienda": "Steam",
-        "precio_actual": "$39.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
+        "precio_actual": "$15.99",
+        "precio_original": "$39.99",
+        "descuento": 60,
+        "en_oferta": true,
         "url": "https://store.steampowered.com/app/560130"
       }
     ]
@@ -3141,10 +3141,10 @@
     "precios": [
       {
         "tienda": "Steam",
-        "precio_actual": "$23.99",
-        "precio_original": "$39.99",
-        "descuento": 40,
-        "en_oferta": true,
+        "precio_actual": "$39.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
         "url": "https://store.steampowered.com/app/1778820"
       }
     ]
@@ -3841,10 +3841,10 @@
     "precios": [
       {
         "tienda": "Steam",
-        "precio_actual": "$29.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
+        "precio_actual": "$7.49",
+        "precio_original": "$29.99",
+        "descuento": 75,
+        "en_oferta": true,
         "url": "https://store.steampowered.com/app/414340"
       }
     ]
@@ -3866,11 +3866,11 @@
     "precios": [
       {
         "tienda": "Steam",
-        "precio_actual": "$49.99",
-        "precio_original": "",
-        "descuento": 0,
-        "en_oferta": false,
-        "url": "https://store.steampowered.com/app/2461850"
+        "precio_actual": "$2.49",
+        "precio_original": "$9.99",
+        "descuento": 75,
+        "en_oferta": true,
+        "url": "https://store.steampowered.com/app/3199630"
       }
     ]
   },
@@ -4491,10 +4491,10 @@
     "precios": [
       {
         "tienda": "Steam",
-        "precio_actual": "$12.49",
-        "precio_original": "$24.99",
-        "descuento": 50,
-        "en_oferta": true,
+        "precio_actual": "$24.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
         "url": "https://store.steampowered.com/app/753640"
       }
     ]
@@ -4741,10 +4741,10 @@
     "precios": [
       {
         "tienda": "Steam",
-        "precio_actual": "$12.49",
-        "precio_original": "$24.99",
-        "descuento": 50,
-        "en_oferta": true,
+        "precio_actual": "$24.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
         "url": "https://store.steampowered.com/app/977880"
       }
     ]
@@ -4816,10 +4816,10 @@
     "precios": [
       {
         "tienda": "Steam",
-        "precio_actual": "$4.99",
-        "precio_original": "$19.99",
-        "descuento": 75,
-        "en_oferta": true,
+        "precio_actual": "$19.99",
+        "precio_original": "",
+        "descuento": 0,
+        "en_oferta": false,
         "url": "https://store.steampowered.com/app/368340"
       }
     ]
