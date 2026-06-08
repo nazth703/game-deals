@@ -34,99 +34,24 @@
         .header-stat .num { font-size: 1.1rem; font-weight: 700; color: var(--blue); }
         .header-stat .lbl { font-size: 0.7rem; color: var(--text2); text-transform: uppercase; letter-spacing: 1px; }
 
-        /* TIEMPOS */
-        .tiempos-section {
-            background: var(--bg2);
-            border-bottom: 1px solid var(--border);
-            padding: 20px 40px;
-        }
-
-        .tiempos-title {
-            font-size: 0.75rem;
-            font-weight: 700;
-            color: var(--text2);
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            margin-bottom: 14px;
-        }
-
-        .tiempos-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 12px;
-        }
-
-        .tiempo-card {
-            background: var(--bg3);
-            border-radius: 10px;
-            padding: 16px;
-            border: 1px solid var(--border);
-        }
-
+        .tiempos-section { background: var(--bg2); border-top: 1px solid var(--border); padding: 20px 40px; }
+        .tiempos-title { font-size: 0.75rem; font-weight: 700; color: var(--text2); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 14px; }
+        .tiempos-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }
+        .tiempo-card { background: var(--bg3); border-radius: 10px; padding: 16px; border: 1px solid var(--border); }
         .tiempo-card.secuencial { border-left: 3px solid var(--red); }
         .tiempo-card.paralelo { border-left: 3px solid #00ff88; }
         .tiempo-card.diferencia { border-left: 3px solid var(--blue); }
-
-        .tiempo-card .lbl {
-            font-size: 0.7rem;
-            color: var(--text2);
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            margin-bottom: 6px;
-        }
-
-        .tiempo-card .val {
-            font-size: 1.4rem;
-            font-weight: 800;
-        }
-
+        .tiempo-card .lbl { font-size: 0.7rem; color: var(--text2); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px; }
+        .tiempo-card .val { font-size: 1.4rem; font-weight: 800; }
         .tiempo-card.secuencial .val { color: var(--red); }
         .tiempo-card.paralelo .val { color: #00ff88; }
         .tiempo-card.diferencia .val { color: var(--blue); }
-
-        .tiempo-card .sub {
-            font-size: 0.75rem;
-            color: var(--text3);
-            margin-top: 4px;
-        }
-
-        .barra-comparacion {
-            margin-top: 14px;
-            background: var(--bg3);
-            border-radius: 10px;
-            padding: 14px 16px;
-            border: 1px solid var(--border);
-        }
-
-        .barra-lbl {
-            display: flex;
-            justify-content: space-between;
-            font-size: 0.75rem;
-            color: var(--text2);
-            margin-bottom: 8px;
-        }
-
-        .barra-wrapper {
-            background: var(--border);
-            border-radius: 4px;
-            height: 8px;
-            overflow: hidden;
-            margin-bottom: 6px;
-        }
-
-        .barra-secuencial {
-            height: 100%;
-            background: var(--red);
-            border-radius: 4px;
-            width: 100%;
-        }
-
-        .barra-paralelo {
-            height: 100%;
-            background: #00ff88;
-            border-radius: 4px;
-            width: 25%;
-        }
+        .tiempo-card .sub { font-size: 0.75rem; color: var(--text3); margin-top: 4px; }
+        .barra-comparacion { margin-top: 14px; background: var(--bg3); border-radius: 10px; padding: 14px 16px; border: 1px solid var(--border); }
+        .barra-lbl { display: flex; justify-content: space-between; font-size: 0.75rem; color: var(--text2); margin-bottom: 8px; }
+        .barra-wrapper { background: var(--border); border-radius: 4px; height: 8px; overflow: hidden; margin-bottom: 6px; }
+        .barra-secuencial { height: 100%; background: var(--red); border-radius: 4px; width: 100%; }
+        .barra-paralelo { height: 100%; background: #00ff88; border-radius: 4px; width: 25%; }
 
         .controls { background: var(--bg2); border-bottom: 1px solid var(--border); padding: 14px 40px; display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
         .search-wrapper { position: relative; flex: 1; min-width: 200px; }
@@ -223,40 +148,6 @@
         </div>
     </div>
 </header>
-
-<!-- SECCIÓN DE TIEMPOS -->
-<div class="tiempos-section">
-    <div class="tiempos-title">⚡ Comparación de Rendimiento — Multiprocesamiento</div>
-    <div class="tiempos-grid">
-        <div class="tiempo-card secuencial">
-            <div class="lbl">Versión Secuencial</div>
-            <div class="val">1166.01s</div>
-            <div class="sub">19.4 minutos — 200 juegos uno por uno</div>
-        </div>
-        <div class="tiempo-card paralelo">
-            <div class="lbl">Versión Paralela (4 hilos)</div>
-            <div class="val">292.59s</div>
-            <div class="sub">4.9 minutos — 200 juegos en paralelo</div>
-        </div>
-        <div class="tiempo-card diferencia">
-            <div class="lbl">Mejora de Rendimiento</div>
-            <div class="val">4.0x más rápido</div>
-            <div class="sub">Ahorro de 14.6 minutos</div>
-        </div>
-    </div>
-    <div class="barra-comparacion">
-        <div class="barra-lbl">
-            <span style="color:var(--red)">■ Secuencial: 1166.01s</span>
-            <span style="color:#00ff88">■ Paralelo: 292.59s</span>
-        </div>
-        <div class="barra-wrapper">
-            <div class="barra-secuencial"></div>
-        </div>
-        <div class="barra-wrapper">
-            <div class="barra-paralelo"></div>
-        </div>
-    </div>
-</div>
 
 <div class="controls">
     <div class="search-wrapper">
@@ -8281,6 +8172,40 @@
             </div>
         </div>
         
+</div>
+
+<!-- SECCIÓN DE TIEMPOS AL FINAL -->
+<div class="tiempos-section">
+    <div class="tiempos-title">⚡ Comparación de Rendimiento — Multiprocesamiento</div>
+    <div class="tiempos-grid">
+        <div class="tiempo-card secuencial">
+            <div class="lbl">Versión Secuencial</div>
+            <div class="val">1166.01s</div>
+            <div class="sub">19.4 minutos — 200 juegos uno por uno</div>
+        </div>
+        <div class="tiempo-card paralelo">
+            <div class="lbl">Versión Paralela (4 hilos)</div>
+            <div class="val">292.59s</div>
+            <div class="sub">4.9 minutos — 200 juegos en paralelo</div>
+        </div>
+        <div class="tiempo-card diferencia">
+            <div class="lbl">Mejora de Rendimiento</div>
+            <div class="val">4.0x más rápido</div>
+            <div class="sub">Ahorro de 14.6 minutos</div>
+        </div>
+    </div>
+    <div class="barra-comparacion">
+        <div class="barra-lbl">
+            <span style="color:var(--red)">■ Secuencial: 1166.01s</span>
+            <span style="color:#00ff88">■ Paralelo: 292.59s</span>
+        </div>
+        <div class="barra-wrapper">
+            <div class="barra-secuencial"></div>
+        </div>
+        <div class="barra-wrapper">
+            <div class="barra-paralelo"></div>
+        </div>
+    </div>
 </div>
 
 <footer>

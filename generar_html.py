@@ -166,99 +166,24 @@ html = f"""
         .header-stat .num {{ font-size: 1.1rem; font-weight: 700; color: var(--blue); }}
         .header-stat .lbl {{ font-size: 0.7rem; color: var(--text2); text-transform: uppercase; letter-spacing: 1px; }}
 
-        /* TIEMPOS */
-        .tiempos-section {{
-            background: var(--bg2);
-            border-bottom: 1px solid var(--border);
-            padding: 20px 40px;
-        }}
-
-        .tiempos-title {{
-            font-size: 0.75rem;
-            font-weight: 700;
-            color: var(--text2);
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            margin-bottom: 14px;
-        }}
-
-        .tiempos-grid {{
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 12px;
-        }}
-
-        .tiempo-card {{
-            background: var(--bg3);
-            border-radius: 10px;
-            padding: 16px;
-            border: 1px solid var(--border);
-        }}
-
+        .tiempos-section {{ background: var(--bg2); border-top: 1px solid var(--border); padding: 20px 40px; }}
+        .tiempos-title {{ font-size: 0.75rem; font-weight: 700; color: var(--text2); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 14px; }}
+        .tiempos-grid {{ display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }}
+        .tiempo-card {{ background: var(--bg3); border-radius: 10px; padding: 16px; border: 1px solid var(--border); }}
         .tiempo-card.secuencial {{ border-left: 3px solid var(--red); }}
         .tiempo-card.paralelo {{ border-left: 3px solid #00ff88; }}
         .tiempo-card.diferencia {{ border-left: 3px solid var(--blue); }}
-
-        .tiempo-card .lbl {{
-            font-size: 0.7rem;
-            color: var(--text2);
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            margin-bottom: 6px;
-        }}
-
-        .tiempo-card .val {{
-            font-size: 1.4rem;
-            font-weight: 800;
-        }}
-
+        .tiempo-card .lbl {{ font-size: 0.7rem; color: var(--text2); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px; }}
+        .tiempo-card .val {{ font-size: 1.4rem; font-weight: 800; }}
         .tiempo-card.secuencial .val {{ color: var(--red); }}
         .tiempo-card.paralelo .val {{ color: #00ff88; }}
         .tiempo-card.diferencia .val {{ color: var(--blue); }}
-
-        .tiempo-card .sub {{
-            font-size: 0.75rem;
-            color: var(--text3);
-            margin-top: 4px;
-        }}
-
-        .barra-comparacion {{
-            margin-top: 14px;
-            background: var(--bg3);
-            border-radius: 10px;
-            padding: 14px 16px;
-            border: 1px solid var(--border);
-        }}
-
-        .barra-lbl {{
-            display: flex;
-            justify-content: space-between;
-            font-size: 0.75rem;
-            color: var(--text2);
-            margin-bottom: 8px;
-        }}
-
-        .barra-wrapper {{
-            background: var(--border);
-            border-radius: 4px;
-            height: 8px;
-            overflow: hidden;
-            margin-bottom: 6px;
-        }}
-
-        .barra-secuencial {{
-            height: 100%;
-            background: var(--red);
-            border-radius: 4px;
-            width: 100%;
-        }}
-
-        .barra-paralelo {{
-            height: 100%;
-            background: #00ff88;
-            border-radius: 4px;
-            width: {round(tiempo_par/tiempo_sec*100)}%;
-        }}
+        .tiempo-card .sub {{ font-size: 0.75rem; color: var(--text3); margin-top: 4px; }}
+        .barra-comparacion {{ margin-top: 14px; background: var(--bg3); border-radius: 10px; padding: 14px 16px; border: 1px solid var(--border); }}
+        .barra-lbl {{ display: flex; justify-content: space-between; font-size: 0.75rem; color: var(--text2); margin-bottom: 8px; }}
+        .barra-wrapper {{ background: var(--border); border-radius: 4px; height: 8px; overflow: hidden; margin-bottom: 6px; }}
+        .barra-secuencial {{ height: 100%; background: var(--red); border-radius: 4px; width: 100%; }}
+        .barra-paralelo {{ height: 100%; background: #00ff88; border-radius: 4px; width: {round(tiempo_par/tiempo_sec*100)}%; }}
 
         .controls {{ background: var(--bg2); border-bottom: 1px solid var(--border); padding: 14px 40px; display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }}
         .search-wrapper {{ position: relative; flex: 1; min-width: 200px; }}
@@ -356,7 +281,32 @@ html = f"""
     </div>
 </header>
 
-<!-- SECCIÓN DE TIEMPOS -->
+<div class="controls">
+    <div class="search-wrapper">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="search" placeholder="Buscar juego...">
+    </div>
+    <select id="filterPlatform">
+        <option value="">Todas las plataformas</option>
+        <option value="Switch">Nintendo Switch</option>
+        <option value="PS4">PlayStation 4</option>
+        <option value="PS5">PlayStation 5</option>
+        <option value="Xbox">Xbox</option>
+        <option value="PC">PC</option>
+    </select>
+    <select id="sortBy">
+        <option value="title">Ordenar: Nombre</option>
+        <option value="score">Ordenar: Metacritic</option>
+        <option value="rating">Ordenar: Rating</option>
+    </select>
+    <div class="results-count"><span id="resultsCount">{len(juegos)}</span> resultados</div>
+</div>
+
+<div class="grid" id="grid">
+    {generar_tarjetas(juegos)}
+</div>
+
+<!-- SECCIÓN DE TIEMPOS AL FINAL -->
 <div class="tiempos-section">
     <div class="tiempos-title">⚡ Comparación de Rendimiento — Multiprocesamiento</div>
     <div class="tiempos-grid">
@@ -388,31 +338,6 @@ html = f"""
             <div class="barra-paralelo"></div>
         </div>
     </div>
-</div>
-
-<div class="controls">
-    <div class="search-wrapper">
-        <span class="search-icon">🔍</span>
-        <input type="text" id="search" placeholder="Buscar juego...">
-    </div>
-    <select id="filterPlatform">
-        <option value="">Todas las plataformas</option>
-        <option value="Switch">Nintendo Switch</option>
-        <option value="PS4">PlayStation 4</option>
-        <option value="PS5">PlayStation 5</option>
-        <option value="Xbox">Xbox</option>
-        <option value="PC">PC</option>
-    </select>
-    <select id="sortBy">
-        <option value="title">Ordenar: Nombre</option>
-        <option value="score">Ordenar: Metacritic</option>
-        <option value="rating">Ordenar: Rating</option>
-    </select>
-    <div class="results-count"><span id="resultsCount">{len(juegos)}</span> resultados</div>
-</div>
-
-<div class="grid" id="grid">
-    {generar_tarjetas(juegos)}
 </div>
 
 <footer>
